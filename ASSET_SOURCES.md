@@ -1,26 +1,42 @@
 # Asset Sources and Rights Register
 
-This register is the project-wide policy and inventory for visual assets. Each actual asset must also have an entry in `assets/manifest.json` with its exact subject, source, credit, rights basis, alt text, and image type. Do not list a proposed source as verified until it has been opened and its use terms checked.
+Truck Library uses real documentary photographs for every gallery visual. The full per-file register—including depiction, photographer credit, source page, license and license link, alt text, and modification notes—is [`assets/manifest.json`](assets/manifest.json). That manifest is authoritative for individual asset attribution.
 
-## Rules
+## Collection summary
 
-1. Prefer original, unbranded SVG technical diagrams or illustrations when a rights-cleared photograph is not available.
-2. Use photographs only when the specific asset has a documented license or explicit permitted-use basis. Public availability is not permission.
-3. Do not hotlink third-party images or scrape image results. Store permitted assets locally and preserve required attribution.
-4. Brand/model galleries require real, rights-cleared, model-verified imagery. Never substitute a different make or imply an unverified model/year.
-5. Label generated or drawn visuals as `Illustration`; never present them as documentary photographs.
-6. Give each visual a meaningful alt text and concise caption describing what it actually depicts.
-7. Record source title and direct URL, depicted subject, rights holder/credit, license or permission evidence, retrieval date, and any restrictions.
+- 70 distinct locally stored photographs are used across 153 labeled views in 63 guides.
+- All 70 gallery assets are cataloged as `Photograph`; there are no infographic, generated, or drawn substitutes.
+- The interface shows a credit and direct image source link with each gallery photograph. The hero photograph has its own credit link.
+- Photographs are reused only as context across related guides; captions state when an image does not prove a rating, configuration, procedure, event, or transaction.
 
-## Verified assets
+## Rights and accuracy rules
 
-No visual assets have been sourced or added in Phase 0.
+1. Each local photograph has a documented source and a reuse license or public-domain basis in the manifest.
+2. Credit and license terms are preserved. Commons-generated thumbnails and source-hosted images are used without crops or other image edits, as recorded per asset.
+3. Do not infer model year, make, component identity, class, tire count, or technical rating unless the source establishes it.
+4. Gallery entries have a factual alt description, visible label, explanatory caption, placement note, photograph type, photographer credit, and image-source link.
+5. Local-only asset paths are used; the site does not hotlink its gallery photographs.
+6. Technical claims cite a supporting source in the guide. Operating procedures and safety requirements are framed around the applicable vehicle, jurisdiction, or contract.
 
-## Candidate source classes (not yet verified)
+## Photograph subjects
 
-- Official OEM media libraries and technical product documentation.
-- Official tire, axle, brake, suspension, engine, transmission, and trailer manufacturer literature.
-- Government material for applicable classifications and regulatory context.
-- Openly licensed assets where the exact file's license and attribution requirements can be established.
+The locally stored set covers tractors and cabs; trailer types and hardware; fifth wheels and kingpins; truck engines and drivetrain parts; aftertreatment; truck and trailer wheels, tires, brakes, axles, and suspension; lights, mirrors, dashboards, and safety equipment; cargo handling, freight docks, and equipment in operation. Photographs are from licensed Wikimedia Commons records, Flickr Commons/photographer records, U.S. government sources, and other explicitly licensed sources documented individually in the manifest.
 
-All candidate source classes require asset-by-asset rights and accuracy review before use.
+## Technical references
+
+Each guide lists its direct references. Major primary and authoritative sources include:
+
+| Reference | Relevant subjects |
+|---|---|
+| [49 CFR § 393.75 — Tires](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-393/subpart-G/section-393.75) | U.S. tread-depth and tire rules |
+| [49 CFR § 392.22 — Emergency signals](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-392/subpart-C/section-392.22) | Warning devices for stopped commercial vehicles |
+| [49 CFR § 396.11 — Driver vehicle inspection reports](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396/section-396.11) and [FMCSA DVIR guidance](https://www.fmcsa.dot.gov/regulations/inspection-repair-and-maintenance-driver-vehicle-inspection-report-dvir) | Inspection, defect repair, and certification loop |
+| [CVSA — All inspection levels](https://cvsa.org/inspections/all-inspection-levels/) | Level I, II, and III scope |
+| [EPA — Diesel particulate filter operation and maintenance](https://www.epa.gov/sites/default/files/2016-03/documents/420f10027.pdf) | General DPF and regeneration overview |
+| [Cummins — Six answers about diesel exhaust fluid](https://www.cummins.com/en-na/news/2016/01/04/6-answers-about-diesel-exhaust-fluid) | DEF freeze point and handling context |
+| [SAE J560 — Seven-conductor truck–trailer connector](https://saemobilus.sae.org/standards/j560_202002-primary-auxiliary-seven-conductor-electrical-connector-truck-trailer-jumper-cable) | Connector pin assignment context; verify vehicle-specific wiring |
+| [FMCSA — Regulations](https://www.fmcsa.dot.gov/regulations) | General U.S. carrier/intermodal regulatory context |
+
+## Audit
+
+All image paths used by `data/galleries.json` are local and map to a manifest record. No orphaned or undocumented photograph is intentionally retained in the gallery asset directory. Counts and route status are tracked in [`docs/COVERAGE.md`](docs/COVERAGE.md).

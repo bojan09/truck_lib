@@ -6,31 +6,26 @@ Last updated: 2026-11-05.
 
 | Phase | Status | Scope |
 |---|---|---|
-| 0 — Inspect and plan | Complete | Repository audit, static constraints, accuracy policy, proposed layout, 63-entry checklist |
-| 1 — Foundation | Not started | Responsive gallery index, search/filters, data loader, deep links, accessible detail and zoom |
-| 2 — Intro galleries | Not started | Truck tire tread patterns, tire positions, four tractor brands |
-| 3 — Vehicles/configuration | Not started | Galleries 1, 2, 3, 23, 27, 30 |
-| 4 — Engine/drivetrain | Not started | Galleries 4, 5, 9, 10, 16, 20, 24 |
-| 5 — Wheels/brakes/suspension | Not started | Galleries 6, 7, 11, 12, 13 |
-| 6 — Trailers/cargo | Not started | Galleries 8, 14, 15, 19, 21, 22 |
-| 7 — Identification/safety/cab | Not started | Galleries 17, 18, 25, 26, 28, 29 |
-| 8 — Final audit | Not started | Rights, accuracy, responsive/accessibility, navigation, broken assets, deployment readiness |
+| 0 — Inspect and plan | Complete | Dedicated repository, static constraints, accuracy policy, and 63-topic coverage checklist |
+| 1 — Foundation | Complete | Responsive catalog, search and filters, local JSON loading, hash routes, accessible detail and photo zoom |
+| 2 — Intro galleries | Complete | Three introductory guides with sourced documentary photographs and source-backed captions |
+| 3 — Vehicles and configuration | Complete | Trailer types, cab layouts, axle and truck classes, dimensions, aerodynamic features, manufacturers, models, and coupling topics |
+| 4 — Engine and drivetrain | Complete | Engine makers and parts, transmission, drivetrain, aftertreatment, DEF, and regeneration topics |
+| 5 — Wheels, brakes, and suspension | Complete | Tire positions/count/tread/damage, minimum tread rule, wheels, axles, suspension, fifth wheel, kingpin, brakes, and landing equipment |
+| 6 — Trailers, cargo, and freight operations | Complete | Trailer equipment and connections, cargo, bills, dispatch terms, operating measures, and finance topics |
+| 7 — Identification, safety, and maintenance | Complete | Dashboard and exterior cues, mirrors, defects, roadside warning equipment, DVIR, CVSA levels, FMI, and parts sourcing |
+| 8 — Final audit | Complete | Source and local-file audit, catalog invariants, JavaScript syntax, responsive UI and route checks; commit and push are the final delivery step |
 
-## Phase 0 findings
+## Scope and implementation
 
-- The requested working directory `/home/stan/projects/trucking-library` was empty of application files when inspected. Git resolves upward from that directory to `/home/stan/projects`, where unrelated sibling folders appear untracked; this is not a safe project root for staging or committing.
-- A separate `/home/stan/projects/truck_atlas` repository exists. Its README and progress log describe a different evidence-first planning track and an active procedural 3D study tool; it has a configured `truck-atlas` remote and uncommitted changes. It is preserved and not copied or modified.
-- The new work uses this dedicated `trucking-library` directory and the requested Truck Library name. The attached brief's internal “TruckAtlas” branding is superseded by the user's naming instruction.
-- Static-only constraints and the proposed directory layout are recorded in [README.md](README.md).
-- All 33 distinct subjects are listed with IDs and status in [docs/COVERAGE.md](docs/COVERAGE.md). Nothing is marked complete until a gallery has multiple distinct labeled visuals and documented sources/assets.
-- The owner added 30 additional equipment, safety, diagnostics, and freight-operations topics. They are separately listed in [docs/COVERAGE.md](docs/COVERAGE.md), bringing the planned library to 63 entries total.
-- Source/rights requirements are recorded in [ASSET_SOURCES.md](ASSET_SOURCES.md). No new visual assets or source claims were added in this phase.
+- Project name: **Truck Library**, overriding the attached brief’s TruckAtlas name.
+- The attached brief contributed 33 topics; the user added 30 more. The catalog contains 63 unique subjects.
+- Static HTML, CSS, vanilla JavaScript, and local JSON; no build system, database, or paid service.
+- The library contains 63 navigable guides, 153 labeled views, and 70 distinct local photographs. Every gallery has at least two views.
+- The user requested real images. All gallery visuals are documentary photographs; no infographic or generated illustration is used as a gallery image. The small site mark is an authored SVG.
+- Photo licensing, credits, source pages, alt text, depiction, and modification notes are recorded in [`assets/manifest.json`](assets/manifest.json); item credits and image links appear in each guide.
+- Photos used for abstract freight or finance concepts are identified as context and do not pretend to depict formulas, documents, contract terms, or a particular transaction.
 
-## Verification
+## Verification record
 
-- Read the supplied brief and inspected the separate TruckAtlas repository documentation, file inventory, and Git state.
-- No website code or browser UI exists in this new project yet; browser verification is not applicable to Phase 0.
-
-## Next phase
-
-Phase 1: implement the static responsive foundation and a small starter dataset, then validate search, filtering, direct gallery links, accessible detail/zoom behavior, and mobile layout.
+Final checks are recorded after the completed browser and data audit. Topic counts, gallery counts, unique photograph counts, local paths, rights metadata, and route coverage are checked against the catalog and manifest. See [`docs/COVERAGE.md`](docs/COVERAGE.md) and [`ASSET_SOURCES.md`](ASSET_SOURCES.md).

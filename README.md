@@ -1,33 +1,33 @@
 # Truck Library
 
-Truck Library is a planned static, image-first field guide to American heavy-duty trucks, trailers, tires, axles, mechanical systems, and related equipment.
+Truck Library is a static, photo-first field guide for U.S. trucking equipment, operations, safety, and freight terms.
 
-## Status
+## Current build
 
-Phase 0 is complete: repository and scope inspection, implementation plan, accuracy policy, and a 63-entry coverage checklist. The galleries and browsing experience are not implemented yet. See [PROGRESS.md](PROGRESS.md) and [docs/COVERAGE.md](docs/COVERAGE.md).
+The site has a responsive, searchable single-page catalog with category filters, direct hash links, accessible detail and photo-zoom dialogs, and 63 source-backed photo guides. The library uses 70 distinct licensed documentary photographs across 153 labeled gallery views. See [PROGRESS.md](PROGRESS.md) and [docs/COVERAGE.md](docs/COVERAGE.md).
+
+The gallery uses documentary photographs only. It does not use infographics or generated images as photo substitutes. A small SVG monogram is used as the site icon and wordmark.
 
 ## Technical direction
 
 - Semantic HTML, modern CSS, and vanilla JavaScript only.
-- Local JSON content and a static-file layout; no framework, build step, backend, database, authentication, or paid service.
-- Relative asset paths so the site can run from a GitHub Pages project subpath.
-- A searchable, filterable single-page gallery index with deep links, accessible detail views, and keyboard-operable image zoom.
-- Proposed layout: `index.html`, `css/`, `js/`, `data/galleries.json`, `assets/manifest.json`, and locally stored, rights-cleared visual assets under `assets/`.
+- Local JSON content and static files; no framework, build step, backend, database, authentication, or paid service.
+- Relative asset paths for GitHub Pages project subpaths.
+- Client-side search, category filters, deep links, accessible photo zoom, and keyboard navigation.
+- Main files: `index.html`, `css/`, `js/`, `data/galleries.json`, `data/topics.json`, `assets/photos/`, and `assets/manifest.json`.
 
-## Accuracy and asset policy
+## Accuracy and photo rights
 
-- Every technical claim and subject-specific visual needs a traceable source or must be clearly marked as an original illustration.
-- Do not use a public image just because it is viewable. Record the source URL, source title, depicted subject, owner/credit, and license or permitted-use basis before inclusion.
-- Do not hotlink copyrighted images, scrape indiscriminately, invent model identities, or reuse an image under incompatible labels.
-- For unsupported model-specific claims, state the uncertainty in the interface. Use original, unbranded diagrams where rights-cleared photographs are unavailable.
-- Keep categories distinct when they describe different things: tread designs vs. tire configurations; tire positions vs. tire construction; material vs. wheel arrangement; 6×2 vs. 6×4 drive layouts.
-- Show safety-related material for identification and learning only. Do not give unsafe repair or inspection instructions.
-- Use concise US English, readable labels, accessible contrast/focus states, responsive layouts, and reduced-motion support.
+- Every photograph is stored locally with its source page, credit, and license in [`assets/manifest.json`](assets/manifest.json). Gallery details show a source link and credit beside each photo.
+- Public availability is not permission. Photographs are included only when the file page establishes a reuse license or public-domain basis.
+- Manufacturer and model names appear only when the source establishes them; uncertainties are stated in the gallery.
+- No unsupported label is inferred from visual similarity. Position and component claims are limited to what the image and technical sources support.
+- Use technical sources for explanations, and vehicle-specific OEM guidance for operating, service, and safety procedures.
 
-## Local run (once Phase 1 exists)
+## Run locally
 
-From the project directory, run `python3 -m http.server 8000`, then open `http://localhost:8000/`.
+From the project directory, run `python3 -m http.server 8000`, then open <http://localhost:8000/>. A local static server is required because the app loads JSON with `fetch()`.
 
-## Phase plan
+## Phases
 
-See [PROGRESS.md](PROGRESS.md) for phase boundaries and current status. Work stops after each phase for review, as requested in the project brief.
+The complete phase checklist and audit notes are in [PROGRESS.md](PROGRESS.md).

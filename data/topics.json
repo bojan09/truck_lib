@@ -1,0 +1,817 @@
+[
+  {
+    "slug": "intro-tire-treads",
+    "title": "Truck tire tread patterns",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "rib",
+      "lug",
+      "block",
+      "mixed service",
+      "winter",
+      "highway",
+      "tire design"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "intro-tire-positions",
+    "title": "Tire positions on a tractor–trailer",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "steer",
+      "drive",
+      "trailer",
+      "axle",
+      "18 wheel",
+      "tire location",
+      "18-wheeler",
+      "18 tires"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "intro-tractor-brands",
+    "title": "Truck tractor manufacturers",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "Volvo",
+      "Freightliner",
+      "Peterbilt",
+      "Kenworth",
+      "OEM"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "trailer-types",
+    "title": "Different Trailer Types",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "dry van",
+      "reefer",
+      "flatbed",
+      "step deck",
+      "lowboy",
+      "tanker",
+      "hopper",
+      "dump",
+      "car hauler",
+      "livestock"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "cab-types",
+    "title": "Truck Cab Types",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "day cab",
+      "sleeper",
+      "mid roof",
+      "high roof",
+      "conventional",
+      "cab over"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "axle-configurations",
+    "title": "Truck Axle Configurations",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "4x2",
+      "6x2",
+      "6x4",
+      "tandem",
+      "lift",
+      "tag",
+      "pusher",
+      "drive axle"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "engine-manufacturers",
+    "title": "Semi-Truck Engine Manufacturers",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "Cummins",
+      "Detroit",
+      "PACCAR",
+      "Volvo",
+      "Mack",
+      "diesel"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "engine-components",
+    "title": "Truck Engine Components",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "turbocharger",
+      "radiator",
+      "alternator",
+      "water pump",
+      "injector",
+      "cooling fan",
+      "belts"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "suspension-systems",
+    "title": "Truck Suspension Systems",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "leaf spring",
+      "air suspension",
+      "shock absorber",
+      "air spring",
+      "hanger"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "brake-systems",
+    "title": "Truck Brake Systems",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "air disc",
+      "S-cam",
+      "drum",
+      "brake chamber",
+      "slack adjuster",
+      "rotor"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "fifth-wheel-coupling",
+    "title": "Fifth Wheel & Coupling",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "fifth wheel",
+      "kingpin",
+      "landing gear",
+      "gladhand",
+      "glad hand",
+      "coupler"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "transmission-types",
+    "title": "Truck Transmission Types",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "manual",
+      "AMT",
+      "automated manual",
+      "automatic",
+      "gearbox"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "drivetrain-components",
+    "title": "Truck Drivetrain Components",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "driveshaft",
+      "differential",
+      "axle shaft",
+      "U-joint",
+      "hub",
+      "transfer case"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "wheel-rim-types",
+    "title": "Wheel & Rim Types",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "steel",
+      "aluminum",
+      "dual wheel",
+      "wide base",
+      "hub piloted"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "tire-damage",
+    "title": "Truck Tire Damage Examples",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "uneven wear",
+      "cupping",
+      "sidewall",
+      "cut",
+      "cord",
+      "separation"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "trailer-axles-suspension",
+    "title": "Trailer Axle & Suspension Types",
+    "category": "Wheels, axles, brakes, suspension",
+    "tags": [
+      "sliding tandem",
+      "fixed axle",
+      "air ride",
+      "spring ride",
+      "lift axle"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "reefer-components",
+    "title": "Reefer Trailer Components",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "refrigeration unit",
+      "evaporator",
+      "condenser",
+      "fuel tank",
+      "air chute",
+      "temperature controller"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "flatbed-equipment",
+    "title": "Flatbed Load & Equipment Types",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "straps",
+      "chains",
+      "binders",
+      "tarps",
+      "edge protector",
+      "stakes",
+      "dunnage"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "fuel-def-systems",
+    "title": "Truck Fuel & DEF Systems",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "diesel tank",
+      "DEF tank",
+      "DPF",
+      "SCR",
+      "aftertreatment",
+      "exhaust"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "dashboard-warning-symbols",
+    "title": "Truck Dashboard Warning Symbols",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "check engine",
+      "ABS",
+      "low air",
+      "coolant",
+      "DEF",
+      "DPF",
+      "warning light"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "exterior-lighting",
+    "title": "Truck Exterior Lighting",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "headlight",
+      "marker",
+      "clearance",
+      "turn",
+      "stop",
+      "identification lamp",
+      "reflector"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "trailer-connections",
+    "title": "Trailer Connections & Hoses",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "service line",
+      "control air",
+      "emergency line",
+      "supply line",
+      "7-way",
+      "electrical connector"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "chassis-frame",
+    "title": "Truck Chassis & Frame",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "frame rail",
+      "crossmember",
+      "wheelbase",
+      "suspension mount",
+      "fifth wheel mount"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "trailer-rear-doors",
+    "title": "Trailer Rear Door Types",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "swing door",
+      "roll-up",
+      "liftgate",
+      "side door",
+      "curtainsider"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "trucking-cargo",
+    "title": "Types of Trucking Cargo",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "pallet",
+      "produce",
+      "construction materials",
+      "liquid bulk",
+      "vehicles",
+      "livestock"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "truck-classes",
+    "title": "Different Truck Classes",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "class 5",
+      "class 6",
+      "class 7",
+      "class 8",
+      "GVWR"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "aerodynamic-components",
+    "title": "Truck Aerodynamic Components",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "roof fairing",
+      "cab extender",
+      "side skirt",
+      "air deflector",
+      "bumper"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "mirrors-cameras",
+    "title": "Truck Mirrors & Camera Systems",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "main mirror",
+      "convex",
+      "hood mirror",
+      "camera monitor"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "cabin-interior",
+    "title": "Truck Cabin Interior",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "driver seat",
+      "dashboard",
+      "steering control",
+      "sleeper bunk",
+      "storage",
+      "HVAC"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "truck-trailer-dimensions",
+    "title": "Truck & Trailer Dimensions",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "wheelbase",
+      "width",
+      "height",
+      "trailer length",
+      "legal limits"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "visual-mechanical-defects",
+    "title": "Common Visual Mechanical Defects",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "leak",
+      "worn belt",
+      "hose",
+      "corrosion",
+      "loose part",
+      "broken lamp"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "safety-equipment",
+    "title": "Truck Safety Equipment",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "warning triangle",
+      "extinguisher",
+      "hi vis",
+      "wheel chock"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "models-by-manufacturer",
+    "title": "Truck Models by Manufacturer",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "Volvo VNL",
+      "Freightliner Cascadia",
+      "Peterbilt 579",
+      "Peterbilt 389",
+      "Kenworth T680",
+      "Kenworth W900"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "fifth-wheel",
+    "title": "Fifth Wheel",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "coupling",
+      "tractor",
+      "semitrailer",
+      "fifth wheel coupling"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "kingpin",
+    "title": "Kingpin",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "trailer",
+      "coupling plate",
+      "fifth wheel"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "gladhand",
+    "title": "Glad Hand",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "gladhand",
+      "air line",
+      "service",
+      "emergency"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "landing-gear",
+    "title": "Landing Gear",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "trailer legs",
+      "support legs",
+      "crank"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "five-axle-tire-count",
+    "title": "Tire Count on a 5-Axle Tractor-Trailer",
+    "category": "Vehicles and configurations",
+    "tags": [
+      "18 wheeler",
+      "18 tires",
+      "five axle",
+      "tire positions"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "us-minimum-tread-depth",
+    "title": "Minimum Tread Depth in the U.S.",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "legal minimum",
+      "tire tread",
+      "FMCSA",
+      "393.75"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "aftertreatment-order",
+    "title": "Exhaust Aftertreatment Order",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "DOC",
+      "DPF",
+      "SCR",
+      "exhaust order",
+      "diesel"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "regen-modes",
+    "title": "Passive vs. Active vs. Parked Regen",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "regeneration",
+      "DPF",
+      "stationary regen",
+      "soot"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "def-freezing",
+    "title": "Around What Temperature Does DEF Freeze?",
+    "category": "Engine, powertrain, chassis",
+    "tags": [
+      "DEF",
+      "freezing point",
+      "cold weather",
+      "diesel exhaust fluid"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "aar-four-questions",
+    "title": "The Four AAR Questions",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "AAR",
+      "questions",
+      "inspection",
+      "verify source meaning"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "highway-warning-devices",
+    "title": "Warning Devices After a Highway Stop (U.S.)",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "warning triangles",
+      "highway stop",
+      "FMCSA",
+      "emergency"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "budget-vs-forecast",
+    "title": "Budget vs. Forecast",
+    "category": "Freight operations and finance",
+    "tags": [
+      "planning",
+      "finance",
+      "variance",
+      "operating budget"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "dvir-repair-loop",
+    "title": "DVIR Repair Loop",
+    "category": "Freight operations and safety",
+    "tags": [
+      "DVIR",
+      "vehicle inspection report",
+      "defect",
+      "repair",
+      "certification"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "cvsa-inspection-levels",
+    "title": "CVSA Level I vs. II vs. III",
+    "category": "Identification, safety, driver experience",
+    "tags": [
+      "CVSA",
+      "roadside inspection",
+      "North American Standard"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "fmi-3-to-6",
+    "title": "FMI 3–6 Usually Suggest…",
+    "category": "Vehicle diagnostics",
+    "tags": [
+      "FMI",
+      "J1939",
+      "fault code",
+      "diagnostic"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "seven-way-red-wire",
+    "title": "7-Way Connector: Red Wire",
+    "category": "Trailer equipment and cargo",
+    "tags": [
+      "7 way",
+      "red wire",
+      "connector pinout",
+      "trailer wiring"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "oem-aftermarket-reman",
+    "title": "OEM vs. Aftermarket vs. Reman",
+    "category": "Maintenance and parts",
+    "tags": [
+      "original equipment",
+      "replacement part",
+      "remanufactured"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "reorder-point",
+    "title": "Reorder Point Formula",
+    "category": "Freight operations and finance",
+    "tags": [
+      "inventory",
+      "formula",
+      "lead time",
+      "safety stock"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "leading-vs-lagging-indicators",
+    "title": "Leading vs. Lagging Indicator",
+    "category": "Freight operations and finance",
+    "tags": [
+      "KPI",
+      "safety",
+      "performance",
+      "metrics"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "shipper-broker-carrier",
+    "title": "Shipper vs. Broker vs. Carrier",
+    "category": "Freight operations",
+    "tags": [
+      "freight roles",
+      "broker",
+      "motor carrier",
+      "shipper"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "bol-pod",
+    "title": "BOL / POD",
+    "category": "Freight operations and documents",
+    "tags": [
+      "bill of lading",
+      "proof of delivery",
+      "documents",
+      "paperwork"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "tonu",
+    "title": "TONU",
+    "category": "Freight operations and finance",
+    "tags": [
+      "truck ordered not used",
+      "cancellation",
+      "accessorial"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "fuel-surcharge",
+    "title": "FSC",
+    "category": "Freight operations and finance",
+    "tags": [
+      "fuel surcharge",
+      "FSC",
+      "rate",
+      "contract"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "detention-calculation",
+    "title": "Detention Calculation",
+    "category": "Freight operations and finance",
+    "tags": [
+      "detention",
+      "free time",
+      "wait time",
+      "hourly rate"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "invoice-packet",
+    "title": "Invoice Packet",
+    "category": "Freight operations and documents",
+    "tags": [
+      "invoice",
+      "BOL",
+      "POD",
+      "paperwork",
+      "billing"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "net-30",
+    "title": "Net 30",
+    "category": "Freight operations and finance",
+    "tags": [
+      "payment terms",
+      "invoice due date",
+      "accounts payable"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "freight-factoring",
+    "title": "Freight Factoring",
+    "category": "Freight operations and finance",
+    "tags": [
+      "factoring",
+      "cash flow",
+      "invoice financing"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "downtime",
+    "title": "Downtime",
+    "category": "Freight operations",
+    "tags": [
+      "truck out of service",
+      "maintenance",
+      "availability"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "deadhead",
+    "title": "Deadhead",
+    "category": "Freight operations",
+    "tags": [
+      "empty miles",
+      "unloaded",
+      "repositioning"
+    ],
+    "status": "ready"
+  },
+  {
+    "slug": "power-only-swap",
+    "title": "Power Swap",
+    "category": "Freight operations",
+    "tags": [
+      "tractor swap",
+      "power only",
+      "operations",
+      "definition to verify"
+    ],
+    "status": "ready"
+  }
+]
