@@ -3,7 +3,7 @@
     "slug": "intro-tire-positions",
     "title": "Tire positions on a tractor–trailer",
     "category": "Wheels, axles, brakes, suspension",
-    "summary": "A real tractor–trailer side view introduces tire position by axle role without implying a standard tire count.",
+    "summary": "A tractor–trailer side view and tractor drive tandem show wheel-group positions without implying a standard tire count.",
     "tags": [
       "tire positions",
       "steer",
@@ -26,19 +26,19 @@
         "source": "https://commons.wikimedia.org/wiki/File:Volvo_VNL_670.jpg"
       },
       {
-        "image": "assets/photos/truck-tire-closeup.jpg",
-        "label": "TIRE AND WHEEL CLOSE VIEW",
-        "alt": "Close photograph of a truck tire mounted on a wheel.",
-        "caption": "A close view of one truck tire. The source does not establish whether this tire is for a steer, drive, or trailer position, or its specific road application.",
-        "placement": "Position is determined by axle location, not by this close-up",
+        "image": "assets/photos/truck-tandem-axles.jpg",
+        "label": "TRACTOR DRIVE TANDEM",
+        "alt": "Photograph of a two-axle truck drive tandem.",
+        "caption": "This shows a tractor drive axle group; count the axle lines, not the number of tire sidewalls, when describing axles.",
+        "placement": "Tractor drive group",
         "imageType": "Photograph",
-        "credit": "tequilamike · CC BY 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Close_up_of_truck_tire_(2266492596).jpg"
+        "credit": "Panoha · CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rear_axles_tandem.jpg"
       }
     ],
     "facts": {
       "what": "A position primer naming steer, drive, and trailer axle groups in order on a tractor–semitrailer.",
-      "does": "Uses a full truck photograph to show wheel-group locations, then a separate tire close-up to distinguish component view from position.",
+      "does": "Uses a full truck photograph to orient wheel-group locations, then a separate drive tandem photograph to show a closer axle-group view.",
       "where": "Move from the tractor nose toward the trailer rear: steer → drive → trailer."
     },
     "note": "The truck photo is not identified as an 18-tire layout; no tire or axle count is inferred. Lift axles, wide-base single tires, and other equipment change configurations. Tire position and tire construction are separate concepts.",
@@ -54,6 +54,10 @@
       {
         "title": "Truck tire close-up — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Close_up_of_truck_tire_(2266492596).jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -320,7 +324,7 @@
         "placement": "Engine beneath or immediately behind the cab",
         "imageType": "Photograph",
         "credit": "Greg Gjerdingen · CC BY 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Kenworth_Cabover_Semi_Truck_%2526_Trailer.jpg"
+        "source": "https://commons.wikimedia.org/wiki/File:Kenworth_Cabover_Semi_Truck_%26_Trailer.jpg"
       },
       {
         "image": "assets/photos/peterbilt-379.jpg",
@@ -456,6 +460,14 @@
       {
         "title": "International tractor fifth-wheel photographs — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Fifth_wheel_IHC_truck_MD1.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Combination Vehicles",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_6.aspx"
       }
     ],
     "related": [
@@ -528,6 +540,14 @@
       {
         "title": "International fifth wheel — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Fifth_wheel_IHC_truck_MD1.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Combination Vehicles",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_6.aspx"
       }
     ],
     "related": [
@@ -1014,7 +1034,7 @@
         "placement": "Trailer rear",
         "imageType": "Photograph",
         "credit": "GeorgHH · Public domain",
-        "source": "https://commons.wikimedia.org/wiki/File:Anschl%25C3%25BCsse_Anh%25C3%25A4nger_08.jpg"
+        "source": "https://commons.wikimedia.org/wiki/File:Anschl%C3%BCsse_Anh%C3%A4nger_08.jpg"
       },
       {
         "image": "assets/photos/glad-hand-trailer.jpg",
@@ -1037,6 +1057,14 @@
       {
         "title": "Trailer brake connections photograph — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Anschl%C3%BCsse_Anh%C3%A4nger_08.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Combination Vehicles",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_6.aspx"
       }
     ],
     "related": [
@@ -1101,6 +1129,14 @@
       {
         "title": "Spring brake air cylinder — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Spring_brake_air_cylinder.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Air Brakes",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_5.aspx"
       }
     ],
     "related": [
@@ -1364,6 +1400,10 @@
       {
         "title": "U.S. Navy pallet transfer — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:US_Navy_040918-N-1550W-029_Joint_Task_Force_Guantanamo_personnel_load_a_pallet_onto_a_truck_at_Incirlik_Air_Force_Base,_Turkey.jpg"
+      },
+      {
+        "title": "FMCSA — Definitions of motor carrier, broker and freight forwarder",
+        "url": "https://www.fmcsa.dot.gov/faq/what-are-definitions-motor-carrier-broker-and-freight-forwarder-authorities"
       }
     ],
     "related": [
@@ -1440,6 +1480,14 @@
       {
         "title": "SAF-HOLLAND — Fifth Wheel Couplings",
         "url": "https://safholland.com/us/en/products/fifth-wheels"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Combination Vehicles",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_6.aspx"
       }
     ],
     "related": [
@@ -1490,7 +1538,7 @@
         "placement": "Trailer front air connections",
         "imageType": "Photograph",
         "credit": "GeorgHH · Public domain according to Wikimedia Commons file record.",
-        "source": "https://commons.wikimedia.org/wiki/File:Anschl%25C3%25BCsse_Anh%25C3%25A4nger_08.jpg"
+        "source": "https://commons.wikimedia.org/wiki/File:Anschl%C3%BCsse_Anh%C3%A4nger_08.jpg"
       }
     ],
     "facts": {
@@ -1507,6 +1555,14 @@
       {
         "title": "FMCSA — North American Standard Inspection Program",
         "url": "https://www.fmcsa.dot.gov/safety/vehicle-inspection"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Combination Vehicles",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_6.aspx"
       }
     ],
     "related": [
@@ -1573,6 +1629,14 @@
       {
         "title": "SAF-HOLLAND — Landing Gear",
         "url": "https://safholland.com/us/en/products/landing-gear"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
+      },
+      {
+        "title": "Oregon DMV — Commercial Driver Manual, Combination Vehicles",
+        "url": "https://www.oregon.gov/odot/dmv/pages/online_cdl_manual_2/section_6.aspx"
       }
     ],
     "related": [
@@ -1639,7 +1703,7 @@
       },
       {
         "title": "Freightliner — Detroit drive axle configurations",
-        "url": "https://dtnacontent-dtna.prd.freightliner.com/content/dam/enterprise/documents/9286-2-detroit_integrated_powertrain_brochure.pdf"
+        "url": "https://dtnacontent-dtna.prd.freightliner.com/content/dam/enterprise/documents/9166-detroit_axles_brochure-2020-04-03.pdf"
       }
     ],
     "related": [
@@ -1751,6 +1815,10 @@
       {
         "title": "49 CFR § 393.75 — Tires",
         "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-393/subpart-G/section-393.75"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -1901,6 +1969,10 @@
       {
         "title": "Careful Carriers MAN truck with air suspension — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Careful_Carriers_MAN_truck_(air_suspension)_(16930210686).jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -1970,6 +2042,10 @@
       {
         "title": "FMCSA Cargo Securement Rules",
         "url": "https://www.fmcsa.dot.gov/regulations/cargo-securement/cargo-securement-rules"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -2247,6 +2323,10 @@
       {
         "title": "Alcoa alloy wheel photograph — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Alcoa_alloy_wheel_001.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -2306,6 +2386,10 @@
       {
         "title": "Semitrailer rear axle photograph — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Semitrailer_rear_axle_(54757063900).jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -2363,7 +2447,7 @@
     "sources": [
       {
         "title": "Volvo Trucks — I-Shift transmission overview",
-        "url": "https://www.volvotrucks.us/trucks/powertrain/i-shift/"
+        "url": "https://www.volvotrucks.us/media/vtna/files/shared/body-builder/manuals/volvo-section-9-vecu4.pdf"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
@@ -2432,20 +2516,16 @@
     "note": "These photographs show specific hardware examples, not a complete modern U.S. tractor driveline. Service procedures depend on the vehicle and component manufacturer.",
     "sources": [
       {
-        "title": "Dana — Driveline and axle products",
-        "url": "https://www.dana.com/products/light-vehicle/driveshafts/"
-      },
-      {
-        "title": "49 CFR § 393.86 — Rear impact guards and protection",
-        "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-393/subpart-G/section-393.86"
-      },
-      {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Differential_gear_001.JPG"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Universal_joint_MD1.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: driveline inspection",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -2798,7 +2878,7 @@
     "sources": [
       {
         "title": "U.S. DOE Alternative Fuels Data Center — Aerodynamic devices",
-        "url": "https://afdc.energy.gov/conserve/aerodynamics.html"
+        "url": "https://afdc.energy.gov/conserve/equipment"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
@@ -3044,6 +3124,10 @@
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Spring_brake_air_cylinder.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -3122,6 +3206,10 @@
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Truck_inspection.jpg"
+      },
+      {
+        "title": "Washington DOL — Commercial Driver Guide: inspection, air brakes and coupling",
+        "url": "https://dol.wa.gov/driver-licenses-and-permits/commercial-driver-licenses-cdl/cdl-training-and-testing/commercial-driver-guides/commercial-driver-guide-text-only"
       }
     ],
     "related": [
@@ -3176,16 +3264,6 @@
         "imageType": "Photograph",
         "credit": "Thomas Vogt · CC BY 4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Semitrailer_rear_axle_(54757063900).jpg"
-      },
-      {
-        "image": "assets/photos/truck-tire-closeup.jpg",
-        "label": "TIRE AND WHEEL CLOSE VIEW",
-        "alt": "Close photograph of a truck tire mounted on a wheel.",
-        "caption": "A close view of one truck tire. The source does not establish whether this tire is for a steer, drive, or trailer position, or its specific road application.",
-        "placement": "Position is determined by axle location, not by this close-up",
-        "imageType": "Photograph",
-        "credit": "tequilamike · CC BY 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Close_up_of_truck_tire_(2266492596).jpg"
       }
     ],
     "facts": {
@@ -3196,7 +3274,7 @@
     "note": "The Volvo side-view photo is not source-identified as five axles. The other photos show contextual axle groups and are not one combined rig. The 18-tire count is an illustrative common layout, not a universal rule.",
     "sources": [
       {
-        "title": "49 CFR § 393.75 — Tires",
+        "title": "Context only — 49 CFR § 393.75: tire requirements, not axle or tire count",
         "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-393/subpart-G/section-393.75"
       },
       {
@@ -3287,7 +3365,7 @@
     "details": [
       {
         "heading": "Federal measurement",
-        "text": "For the front wheels of a power unit, 49 CFR 393.75 specifies at least 4/32 inch in every major tread groove. Other tires require at least 2/32 inch. Measurements exclude the location of tread wear indicators or tie bars."
+        "text": "For the front wheels of a bus, truck, or truck tractor, 49 CFR 393.75 specifies at least 4/32 inch when measured at any point on a major tread groove. Other covered tires require at least 2/32 inch when measured in a major tread groove. Measurements are not made where tie bars, humps, or fillets are located."
       },
       {
         "heading": "Practical inspection",
@@ -3546,7 +3624,7 @@
     "note": "These photographs are operating context only; they do not show financial statements or establish any company’s performance.",
     "sources": [
       {
-        "title": "FMCSA — Motor carrier financial and operational context",
+        "title": "Context only — FMCSA — Motor carrier financial and operational context",
         "url": "https://www.fmcsa.dot.gov/registration/financial-responsibility-motor-carriers"
       },
       {
@@ -3625,14 +3703,6 @@
     "note": "The images are contextual photographs, not a sample DVIR form. Applicable exceptions and requirements should be checked against current FMCSA rules.",
     "sources": [
       {
-        "title": "FMCSA — Driver-Vehicle Inspection Report",
-        "url": "https://www.fmcsa.dot.gov/regulations/inspection-repair-and-maintenance-driver-vehicle-inspection-report-dvir"
-      },
-      {
-        "title": "49 CFR § 396.11",
-        "url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-396/subpart-B/section-396.11"
-      },
-      {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Truck_inspection.jpg"
       },
@@ -3643,6 +3713,10 @@
       {
         "title": "49 CFR § 396.11 — Driver vehicle inspection reports",
         "url": "https://www.ecfr.gov/current/title-49/section-396.11"
+      },
+      {
+        "title": "49 CFR § 396.13 — Driver inspection",
+        "url": "https://www.ecfr.gov/current/title-49/section-396.13"
       }
     ],
     "related": [
@@ -3652,7 +3726,7 @@
     "details": [
       {
         "heading": "Report and assess",
-        "text": "A driver reports defects or deficiencies that could affect safe operation or cause a breakdown. For most interstate property-carrying vehicles, a federal no-defect report is not required; passenger-carrying vehicles and other rules can differ."
+        "text": "A driver reports defects or deficiencies that could affect safe operation or cause a breakdown. Under the current federal rule, a no-defect report is not required when no defect or deficiency is discovered or reported; applicability, exceptions, state rules, and carrier policies still need checking."
       },
       {
         "heading": "Repair and certify",
@@ -3752,7 +3826,7 @@
         "placement": "Tractor–trailer interface",
         "imageType": "Photograph",
         "credit": "GeorgHH · Public domain according to Wikimedia Commons file record.",
-        "source": "https://commons.wikimedia.org/wiki/File:Anschl%25C3%25BCsse_Anh%25C3%25A4nger_08.jpg"
+        "source": "https://commons.wikimedia.org/wiki/File:Anschl%C3%BCsse_Anh%C3%A4nger_08.jpg"
       },
       {
         "image": "assets/photos/trailer-turn-light.jpg",
@@ -3766,7 +3840,7 @@
       }
     ],
     "facts": {
-      "what": "On a standard SAE J560 seven-conductor connector, circuit 4 is red and serves stop lamps and anti-lock braking system (ABS) secondary power.",
+      "what": "In the SAE J560 table published by Caltrans, circuit 4 is red and is designated for stop lamps and antilock devices.",
       "does": "Connector pinouts and color wiring must be checked against the applicable SAE J560 edition and vehicle/trailer wiring. Some fleets or jurisdictions use modified configurations.",
       "where": "The seven-way electrical jumper connects tractor and trailer; red is the J560 conductor color for circuit 4."
     },
@@ -3782,7 +3856,7 @@
       },
       {
         "title": "Photograph source — Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:Anschl%25C3%25BCsse_Anh%25C3%25A4nger_08.jpg"
+        "url": "https://commons.wikimedia.org/wiki/File:Anschl%C3%BCsse_Anh%C3%A4nger_08.jpg"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
@@ -3796,7 +3870,7 @@
     "details": [
       {
         "heading": "Scope of the answer",
-        "text": "In the standard heavy-truck SAE J560 configuration, circuit 4 is the red stop-lamp circuit, also used for secondary ABS power in the referenced wiring table. Other seven-way connector families and fleet modifications can differ."
+        "text": "The Caltrans comparison table identifies J560 circuit 4 as red for stop lamps and antilock devices. Caltrans uses a different wiring configuration, and other seven-way connector families and fleet modifications can differ."
       },
       {
         "heading": "Verify before work",
@@ -3845,7 +3919,7 @@
     "sources": [
       {
         "title": "U.S. Federal Trade Commission — Buying auto parts and repair services",
-        "url": "https://consumer.ftc.gov/articles/auto-repair-basics"
+        "url": "https://consumer.ftc.gov/articles/0211-auto-repair-basics"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
@@ -3912,7 +3986,7 @@
     "note": "This is an inventory-planning formula, not a universal accounting rule. The photos show parts only; they do not depict on-hand quantities or supplier lead times.",
     "sources": [
       {
-        "title": "U.S. Small Business Administration — Manage inventory",
+        "title": "Context only — U.S. Small Business Administration — Manage inventory",
         "url": "https://www.sba.gov/business-guide/manage-your-business/manage-your-finances"
       },
       {
@@ -4048,8 +4122,8 @@
     "note": "The photographs are contextual scenes, not legal forms or evidence of any particular shipment. Document requirements vary by mode and contract.",
     "sources": [
       {
-        "title": "FMCSA — Bills of lading and carrier records overview",
-        "url": "https://www.fmcsa.dot.gov/regulations"
+        "title": "49 CFR § 373.101 — Bills of lading for for-hire, non-exempt carriers",
+        "url": "https://www.ecfr.gov/current/title-49/section-373.101"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
@@ -4115,7 +4189,7 @@
     "note": "There is no universal TONU amount. These photographs do not show a cancellation or claim.",
     "sources": [
       {
-        "title": "FMCSA — Broker and carrier arrangements are governed by applicable agreements and regulations",
+        "title": "Context only — FMCSA — Broker and carrier arrangements are governed by applicable agreements and regulations",
         "url": "https://www.fmcsa.dot.gov/regulations"
       },
       {
@@ -4255,8 +4329,8 @@
     "note": "No universal free-time allowance or hourly rate applies. Verify the rate confirmation and facility rules.",
     "sources": [
       {
-        "title": "FMCSA — Freight broker and carrier contract resources",
-        "url": "https://www.fmcsa.dot.gov/registration"
+        "title": "FMCSA — Impact of driver detention time on safety and operations",
+        "url": "https://www.fmcsa.dot.gov/research-and-analysis/impact-driver-detention-time-safety-and-operations"
       },
       {
         "title": "Photograph source — Wikimedia Commons",
@@ -4324,7 +4398,7 @@
     "note": "Packet contents and billing deadlines are customer- and contract-specific. The photos show freight activity only, not documents.",
     "sources": [
       {
-        "title": "FMCSA — Records and regulatory resources",
+        "title": "Context only — FMCSA — Records and regulatory resources",
         "url": "https://www.fmcsa.dot.gov/regulations"
       },
       {
@@ -4391,7 +4465,7 @@
     "note": "Net 30 is a payment term, not a guaranteed payment date. The photographs do not depict billing terms.",
     "sources": [
       {
-        "title": "U.S. Small Business Administration — Manage your finances",
+        "title": "Context only — U.S. Small Business Administration — Manage your finances",
         "url": "https://www.sba.gov/business-guide/manage-your-business/manage-your-finances"
       },
       {
@@ -4455,12 +4529,8 @@
       "does": "Advance rate, fees, recourse, reserves, notification, and eligibility vary. Compare the full agreement and customer/payment effects.",
       "where": "Review an actual factoring agreement and invoice terms; do not infer the cost from a quoted advance alone."
     },
-    "note": "This is a general business description, not individual financial advice. The photos are transport context, not evidence of a factoring service.",
+    "note": "This is a general business description, not individual financial advice. The photos are transport context, not evidence of a factoring service. Terms and legal effects must be checked against the factor agreement; no primary contract example is included.",
     "sources": [
-      {
-        "title": "Federal Trade Commission — Factoring and business financing consumer guidance",
-        "url": "https://www.ftc.gov/business-guidance"
-      },
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:LTL_truck.jpg"
@@ -4525,7 +4595,7 @@
     "note": "Downtime definitions differ by fleet. The images do not show a confirmed failure or elapsed downtime.",
     "sources": [
       {
-        "title": "FMCSA — Inspection, repair, and maintenance",
+        "title": "Context only — FMCSA — Inspection, repair, and maintenance",
         "url": "https://www.fmcsa.dot.gov/regulations/inspection-repair-and-maintenance"
       },
       {
@@ -4592,7 +4662,7 @@
     "note": "The photographs do not verify trip status or revenue treatment. Deadhead definitions vary by carrier and contract.",
     "sources": [
       {
-        "title": "FMCSA — Motor carrier operations and records",
+        "title": "Context only — FMCSA — Motor carrier operations and records",
         "url": "https://www.fmcsa.dot.gov/regulations"
       },
       {
@@ -4660,7 +4730,7 @@
     "note": "The term is not a single universal regulatory definition. These photos show tractors and a tractor–trailer, not a swap event or interchange record.",
     "sources": [
       {
-        "title": "FMCSA — Intermodal equipment and motor-carrier regulations",
+        "title": "Context only — FMCSA — Intermodal equipment and motor-carrier regulations",
         "url": "https://www.fmcsa.dot.gov/regulations"
       },
       {

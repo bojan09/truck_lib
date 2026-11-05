@@ -4,7 +4,7 @@ Truck Library uses real documentary photographs for every gallery visual. The fu
 
 ## Collection summary
 
-- 74 distinct locally stored photographs are used across 162 labeled views in 63 guides.
+- 74 distinct locally stored photographs are used across 161 labeled views in 63 guides.
 - All 74 gallery assets are cataloged as `Photograph`; there are no infographic, generated, or drawn substitutes.
 - The interface shows a credit and direct image source link with each gallery photograph. The hero photograph has its own credit link.
 - Photographs are reused only as context across related guides; captions state when an image does not prove a rating, configuration, procedure, event, or transaction.

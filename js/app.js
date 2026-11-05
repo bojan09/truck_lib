@@ -42,7 +42,8 @@ function buildSearchText(topic, gallery) {
     topic.title, topic.category, ...(topic.tags ?? []),
     gallery?.summary, gallery?.note,
     ...(gallery?.items ?? []).flatMap(item => [item.label, item.caption, item.placement]),
-    ...(gallery?.facts ? Object.values(gallery.facts) : [])
+    ...(gallery?.facts ? Object.values(gallery.facts) : []),
+    ...(gallery?.details ?? []).flatMap(section => [section.heading, section.text])
   ].join(' '));
 }
 
@@ -201,7 +202,6 @@ function makeDetailMarkup(topic, gallery) {
 
 function openZoom(item) {
   zoomReturnFocus = document.activeElement;
-  const figure = document.createElement('figure');
   const image = document.createElement('img');
   image.src = item.image;
   image.alt = item.alt;
@@ -209,8 +209,7 @@ function openZoom(item) {
   image.height = 300;
   const caption = document.createElement('figcaption');
   caption.textContent = `${item.label} · ${item.caption}`;
-  figure.append(image, caption);
-  ui.zoomFigure.replaceChildren(figure);
+  ui.zoomFigure.replaceChildren(image, caption);
   ui.zoom.showModal();
   document.querySelector('#zoom-close').focus();
 }
