@@ -60,6 +60,12 @@
       "five-axle-tire-count",
       "tire-damage",
       "wheel-rim-types"
+    ],
+    "details": [
+      {
+        "heading": "Read the combination",
+        "text": "Start at the front steering axle, then identify tractor drive axles and trailer axles. Axle location is not the same as tire construction; a picture of one tire alone cannot establish which position it serves."
+      }
     ]
   },
   {
@@ -145,6 +151,12 @@
       "models-by-manufacturer",
       "cab-types",
       "truck-classes"
+    ],
+    "details": [
+      {
+        "heading": "Identify the vehicle",
+        "text": "Use the manufacturer nameplate, vehicle identification number, and manufacturer records to verify make and model. Grilles, badges, cabs, and paint can be changed, and an engine brand can differ from the truck brand."
+      }
     ]
   },
   {
@@ -277,6 +289,12 @@
       "cab-types",
       "flatbed-equipment",
       "reefer-components"
+    ],
+    "details": [
+      {
+        "heading": "Match equipment to the freight",
+        "text": "A van encloses freight, a reefer adds temperature control, and a flatbed carries loads on an open deck. Tankers, dump trailers, and vehicle carriers serve different cargo; capacity, securement, and permits depend on the specific equipment and load."
+      }
     ]
   },
   {
@@ -349,6 +367,12 @@
       "models-by-manufacturer",
       "truck-classes",
       "truck-trailer-dimensions"
+    ],
+    "details": [
+      {
+        "heading": "Cab layout and accommodation",
+        "text": "A conventional cab sits behind an engine hood; a cab-over places the cab above or ahead of much of the engine. A sleeper provides a rest compartment, while roof height and interior features vary within each layout."
+      }
     ]
   },
   {
@@ -439,6 +463,12 @@
       "kingpin",
       "gladhand",
       "landing-gear"
+    ],
+    "details": [
+      {
+        "heading": "Coupling sequence",
+        "text": "Follow the equipment-specific procedure to position the trailer, connect and test the coupling, connect air and electrical lines, and check that the landing gear and other equipment are ready for travel. A visual reference cannot substitute for a physical lock check."
+      }
     ]
   },
   {
@@ -472,6 +502,16 @@
         "imageType": "Photograph",
         "credit": "Acroterion · CC BY-SA 4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Fifth_wheel_IHC_truck_MD1.jpg"
+      },
+      {
+        "image": "assets/photos/saf-holland-fifth-wheel-01.jpg",
+        "label": "FIFTH WHEEL · TRACTOR",
+        "alt": "SAF-Holland fifth wheel coupling mounted on a tractor chassis.",
+        "caption": "A fifth wheel is mounted to the tractor frame and supports the trailer’s kingpin connection. The photo shows a specific SAF-Holland unit.",
+        "placement": "Tractor chassis, above the drive axles",
+        "imageType": "Photograph",
+        "credit": "Photohelp13 · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Saf_Holland_turntable,_fifth_wheel_01.jpg"
       }
     ],
     "facts": {
@@ -494,6 +534,16 @@
       "kingpin",
       "fifth-wheel-coupling",
       "landing-gear"
+    ],
+    "details": [
+      {
+        "heading": "How the coupling works",
+        "text": "The trailer kingpin enters the throat of the fifth wheel and is captured by its locking mechanism. The plate carries trailer weight and permits the tractor and trailer to pivot. A successful connection depends on correct trailer height, lock engagement, and the manufacturer’s coupling inspection procedure."
+      },
+      {
+        "heading": "What to look for",
+        "text": "Look for damage, missing fasteners, worn components, and inadequate lubrication where specified. A visual example cannot establish whether a particular lock is engaged or the coupling is safe."
+      }
     ]
   },
   {
@@ -558,6 +608,16 @@
       "regen-modes",
       "fuel-def-systems",
       "def-freezing"
+    ],
+    "details": [
+      {
+        "heading": "Typical path and its limits",
+        "text": "A common modern arrangement puts a diesel oxidation catalyst and particulate filter upstream of DEF dosing and an SCR catalyst; some systems combine or rearrange functions. Trace the specific engine’s service diagram instead of identifying order solely by exterior housings."
+      },
+      {
+        "heading": "Different jobs",
+        "text": "The oxidation catalyst promotes oxidation of certain exhaust pollutants, the DPF traps particulate matter, and SCR uses a reductant derived from DEF to reduce nitrogen oxides. Sensors and controls monitor the system."
+      }
     ]
   },
   {
@@ -615,6 +675,16 @@
       "aftertreatment-order",
       "regen-modes",
       "def-freezing"
+    ],
+    "details": [
+      {
+        "heading": "Separate fluids and paths",
+        "text": "Diesel fuel supplies the engine. DEF is a urea-and-water solution used by an SCR system and is metered into exhaust downstream of the engine. Their tanks, fillers, and plumbing are separate; verify the labels before filling."
+      },
+      {
+        "heading": "Contamination matters",
+        "text": "Fuel in a DEF tank or DEF in a fuel tank can damage equipment. Stop filling and follow the manufacturer’s response procedure if the wrong fluid is added."
+      }
     ]
   },
   {
@@ -673,6 +743,12 @@
       "dashboard-warning-symbols",
       "mirrors-cameras",
       "cab-types"
+    ],
+    "details": [
+      {
+        "heading": "Orientation",
+        "text": "The instrument panel displays vehicle information; nearby controls may operate lights, climate, transmission, brakes, and auxiliary equipment. Their location and behavior vary by manufacturer and model year."
+      }
     ]
   },
   {
@@ -760,6 +836,12 @@
       "intro-tractor-brands",
       "cab-types",
       "truck-classes"
+    ],
+    "details": [
+      {
+        "heading": "Verify a model",
+        "text": "A badge or photographed appearance is a starting point. Confirm a specific model and year against the vehicle identification number and manufacturer records; the image source may establish only the make."
+      }
     ]
   },
   {
@@ -816,13 +898,19 @@
       "trailer-types",
       "trailer-rear-doors",
       "trucking-cargo"
+    ],
+    "details": [
+      {
+        "heading": "How temperature control fits",
+        "text": "A transport refrigeration unit conditions air in the trailer, while airflow, loading pattern, door openings, and the unit’s settings affect cargo temperature. Setpoint alone does not prove the product stayed within its required temperature range."
+      }
     ]
   },
   {
     "slug": "trailer-rear-doors",
     "title": "Trailer Rear Door Types",
     "category": "Trailer equipment and cargo",
-    "summary": "Real trailer-rear photographs show a tail lift and a curtain-sided body; door types remain clearly distinguished.",
+    "summary": "A rear photograph shows hinged doors and locking bars; a separate photograph shows a tail lift.",
     "tags": [
       "swing door",
       "roll-up",
@@ -832,6 +920,16 @@
       "trailer rear"
     ],
     "items": [
+      {
+        "image": "assets/photos/van-trailer-rear.jpg",
+        "label": "HINGED REAR DOORS",
+        "alt": "Rear view of a Knight Transportation semitrailer with two closed, hinged doors and locking bars.",
+        "caption": "Two closed hinged doors and their vertical locking bars are visible. The photograph does not show their interior or operation.",
+        "placement": "Trailer rear",
+        "imageType": "Photograph",
+        "credit": "Eric Polk · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Knight_transportation_trailer_-_rear.jpg"
+      },
       {
         "image": "assets/photos/trailer-liftgate.jpg",
         "label": "FOLDABLE TAIL LIFT",
@@ -854,11 +952,11 @@
       }
     ],
     "facts": {
-      "what": "One rear-mounted tail lift and a separate curtainside body-style example.",
-      "does": "Separates rear access equipment from trailer body construction.",
-      "where": "The tail lift is at the trailer rear; the curtainside photo shows the flexible side enclosure."
+      "what": "Swing doors pivot on side hinges; roll-up doors use linked panels that travel on tracks. A tail lift is separate lifting equipment.",
+      "does": "The photographed swing-door example uses vertical locking bars. Door design affects dock access and overhead clearance.",
+      "where": "Doors close the trailer’s rear cargo opening; a tail lift, when fitted, mounts at the rear."
     },
-    "note": "Swing-door and roll-up-door photos are not included yet. The curtainside is a body style, not a rear-door type.",
+    "note": "The rear view shows hinged doors. A roll-up door is described but is not pictured; the curtainside photograph shows a different body feature.",
     "sources": [
       {
         "title": "Foldable tail lift — Wikimedia Commons",
@@ -867,12 +965,30 @@
       {
         "title": "Curtainside trailers — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Curtainside_trailers_at_Display_UK,_Sandbeck_Lane,_Wetherby_(24th_March_2019).jpg"
+      },
+      {
+        "title": "Knight trailer rear photograph — Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Knight_transportation_trailer_-_rear.jpg"
+      },
+      {
+        "title": "Hyundai Translead — Dry Van and Reefer Trailer Owner’s Manual",
+        "url": "https://www.hyundaitranslead.com/wp-content/uploads/HT_manual_dry_van_reefer_trailer_opt.pdf"
       }
     ],
     "related": [
       "trailer-types",
       "reefer-components",
       "trailer-connections"
+    ],
+    "details": [
+      {
+        "heading": "Choosing a door",
+        "text": "Swing doors generally require room behind the trailer to open; roll-up doors store overhead inside the opening and can change usable opening height. Exact dimensions and clearances depend on the equipment."
+      },
+      {
+        "heading": "Check before opening",
+        "text": "Follow site procedures and stand clear of the path of doors and potentially shifted cargo. Inspect hinges, latches, seals, and locking bars for the actual trailer."
+      }
     ]
   },
   {
@@ -927,6 +1043,12 @@
       "gladhand",
       "seven-way-red-wire",
       "fifth-wheel-coupling"
+    ],
+    "details": [
+      {
+        "heading": "Air and electricity",
+        "text": "Air hoses connect the tractor and trailer braking systems; a separate electrical jumper carries lighting and other electrical circuits. Connector location, color, and configuration vary, so verify the equipment rather than assuming every photographed connection is the same."
+      }
     ]
   },
   {
@@ -985,13 +1107,19 @@
       "suspension-systems",
       "trailer-axles-suspension",
       "trailer-connections"
+    ],
+    "details": [
+      {
+        "heading": "Service and parking functions",
+        "text": "The service brake slows the vehicle when commanded. In a spring-brake chamber, a mechanical spring can apply parking or emergency braking while air pressure releases it. The exact system and procedures depend on the vehicle."
+      }
     ]
   },
   {
     "slug": "engine-components",
     "title": "Truck Engine Components",
     "category": "Engine, powertrain, chassis",
-    "summary": "One source-identified engine accessory: an air compressor with Cummins branding.",
+    "summary": "Photographs show a truck air compressor, a turbocharger assembly, and a historic engine bay.",
     "tags": [
       "turbocharger",
       "radiator",
@@ -1025,9 +1153,9 @@
       },
       {
         "image": "assets/photos/zil-engine-components.jpg",
-        "label": "OLDER DIESEL ENGINE BAY",
+        "label": "HISTORIC GASOLINE ENGINE BAY",
         "alt": "Photographed ZIL-130 engine installed in a ZIL-131 with source-listed radiator and water-pump components.",
-        "caption": "A historically distinct engine installation with source-provided component identification; not a current U.S. engine layout.",
+        "caption": "A historic ZIL gasoline engine installation; the source lists radiator and water-pump components. It is not a current diesel layout.",
         "placement": "Engine compartment",
         "imageType": "Photograph",
         "credit": "Vivan755 · CC BY-SA 4.0",
@@ -1035,11 +1163,11 @@
       }
     ],
     "facts": {
-      "what": "A truck air compressor, a mechanically driven accessory used by the vehicle’s compressed-air system.",
-      "does": "Provides compressed air for vehicle systems such as air brakes; specific output and control arrangements vary.",
-      "where": "Mounted to the engine in the photographed example."
+      "what": "An air compressor, turbocharger, and historic installed engine show three different engine-related views.",
+      "does": "The compressor supplies compressed air for vehicle systems; the turbocharger uses exhaust energy to compress intake air. The historic engine bay illustrates component placement.",
+      "where": "Accessories attach to or connect with the engine; layouts differ by engine and vehicle."
     },
-    "note": "Turbocharger, radiator, alternator, water pump, injectors, cooling fan, and belt photographs are still needed. Do not infer an exact engine model from this component photo.",
+    "note": "The historic ZIL engine is a gasoline engine, not a modern diesel. The photograph does not establish a current truck engine layout; individual components need source or model verification.",
     "sources": [
       {
         "title": "Truck air compressor — Wikimedia Commons",
@@ -1050,6 +1178,12 @@
       "brake-systems",
       "fuel-def-systems",
       "engine-manufacturers"
+    ],
+    "details": [
+      {
+        "heading": "Three distinct views",
+        "text": "An engine-driven compressor supports the air system; a turbocharger uses exhaust energy to compress intake air. The historic engine bay shows placement on a different gasoline vehicle, so it should not be used as a current diesel layout."
+      }
     ]
   },
   {
@@ -1169,6 +1303,12 @@
       "trailer-types",
       "flatbed-equipment",
       "reefer-components"
+    ],
+    "details": [
+      {
+        "heading": "Cargo changes the equipment",
+        "text": "A liquid tanker, a car transporter, and a flatbed address different physical loads. Weight distribution, compatible equipment, securement, and shipment-specific instructions must be checked for the actual freight."
+      }
     ]
   },
   {
@@ -1230,6 +1370,16 @@
       "bol-pod",
       "detention-calculation",
       "deadhead"
+    ],
+    "details": [
+      {
+        "heading": "Who does what",
+        "text": "The shipper tenders goods, the carrier accepts responsibility for transportation, and a broker arranges transportation for compensation using a motor carrier. A business can occupy different roles in different transactions."
+      },
+      {
+        "heading": "Check the transaction",
+        "text": "Identify contracting parties, operating authority, cargo responsibility, payment terms, and who communicates changes. A broker’s arrangement does not by itself mean the broker physically operates the truck."
+      }
     ]
   },
   {
@@ -1264,6 +1414,16 @@
         "imageType": "Photograph",
         "credit": "Acroterion · CC BY-SA 4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Fifth_wheel_IHC_truck_MD1.jpg"
+      },
+      {
+        "image": "assets/photos/saf-holland-fifth-wheel-01.jpg",
+        "label": "FIFTH WHEEL · TRACTOR",
+        "alt": "SAF-Holland fifth wheel coupling mounted on a tractor chassis.",
+        "caption": "A fifth wheel is mounted to the tractor frame and supports the trailer’s kingpin connection. The photo shows a specific SAF-Holland unit.",
+        "placement": "Tractor chassis, above the drive axles",
+        "imageType": "Photograph",
+        "credit": "Photohelp13 · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Saf_Holland_turntable,_fifth_wheel_01.jpg"
       }
     ],
     "facts": {
@@ -1286,6 +1446,16 @@
       "fifth-wheel-coupling",
       "fifth-wheel",
       "trailer-connections"
+    ],
+    "details": [
+      {
+        "heading": "How it connects",
+        "text": "The kingpin is fixed beneath the trailer’s upper coupling plate. The fifth-wheel jaws or locking mechanism retain it; the flat surfaces carry vertical load while the combination articulates."
+      },
+      {
+        "heading": "Inspection context",
+        "text": "Wear, cracks, deformation, and incorrect coupling height require attention under the equipment manufacturer’s inspection criteria. Do not infer serviceability from a photograph."
+      }
     ]
   },
   {
@@ -1343,6 +1513,16 @@
       "trailer-connections",
       "fifth-wheel-coupling",
       "kingpin"
+    ],
+    "details": [
+      {
+        "heading": "Supply and service lines",
+        "text": "A typical tractor–trailer air-brake system uses a supply line and a service/control line. The supply line charges trailer reservoirs and supports release of spring brakes; service pressure communicates braking demand. Connections and colors should be checked against the actual equipment."
+      },
+      {
+        "heading": "Before coupling",
+        "text": "Check seals and mating surfaces for damage, keep dirt out, and follow the carrier’s connection and leak-check procedure. A gladhand is an air coupling; the electrical connector is separate."
+      }
     ]
   },
   {
@@ -1399,6 +1579,12 @@
       "fifth-wheel-coupling",
       "kingpin",
       "trailer-types"
+    ],
+    "details": [
+      {
+        "heading": "Support and load",
+        "text": "The landing gear supports an uncoupled trailer front. Ground condition, trailer load, support surface, and equipment ratings affect stability; use the trailer manufacturer’s and site’s procedures before uncoupling or moving a trailer."
+      }
     ]
   },
   {
@@ -1460,6 +1646,12 @@
       "five-axle-tire-count",
       "intro-tire-positions",
       "trailer-axles-suspension"
+    ],
+    "details": [
+      {
+        "heading": "Read the numbers",
+        "text": "In a common notation such as 6×4, the first number describes wheel positions and the second describes driven wheel positions. This notation does not count individual dual tires; lift and auxiliary axle arrangements require additional detail."
+      }
     ]
   },
   {
@@ -1565,6 +1757,12 @@
       "intro-tire-positions",
       "us-minimum-tread-depth",
       "wheel-rim-types"
+    ],
+    "details": [
+      {
+        "heading": "A symptom is not a diagnosis",
+        "text": "Exposed cord, a bulge, a cut, or separation can indicate a serious condition, but appearance alone does not prove root cause. Remove unsafe equipment from service and follow applicable inspection and replacement procedures."
+      }
     ]
   },
   {
@@ -1647,6 +1845,12 @@
       "intro-tire-positions",
       "tire-damage",
       "us-minimum-tread-depth"
+    ],
+    "details": [
+      {
+        "heading": "Pattern and purpose",
+        "text": "Rib and lug patterns have different design features, but a tread photograph alone cannot prove its approved axle position or duty cycle. Confirm tire size, load and speed ratings, application, and manufacturer guidance."
+      }
     ]
   },
   {
@@ -1703,6 +1907,12 @@
       "axle-configurations",
       "trailer-axles-suspension",
       "visual-mechanical-defects"
+    ],
+    "details": [
+      {
+        "heading": "Support and control",
+        "text": "Leaf springs and air springs support the vehicle differently; shock absorbers control motion rather than replacing the spring’s load-support function. Configuration and inspection criteria depend on the equipment."
+      }
     ]
   },
   {
@@ -1766,6 +1976,12 @@
       "trailer-types",
       "trucking-cargo",
       "trailer-axles-suspension"
+    ],
+    "details": [
+      {
+        "heading": "Secure the actual load",
+        "text": "Tie-down selection, working load limits, anchor points, edge protection, and commodity-specific rules depend on the load and applicable regulations. A photograph of a strap shows a device, not a compliant securement plan."
+      }
     ]
   },
   {
@@ -1826,6 +2042,12 @@
       "safety-equipment",
       "visual-mechanical-defects",
       "exterior-lighting"
+    ],
+    "details": [
+      {
+        "heading": "Placement depends on the road",
+        "text": "For common two-way roads, federal rules generally call for one device near the traffic side of the vehicle and devices 100 feet in each direction. On a divided or one-way road, the typical pattern is behind the vehicle at 10, 100, and 200 feet. Curves, hills, hazardous materials, and other conditions can change requirements; consult the current rule."
+      }
     ]
   },
   {
@@ -1861,6 +2083,16 @@
         "imageType": "Photograph",
         "credit": "Oregon Department of Transportation · CC BY 2.0",
         "source": "https://commons.wikimedia.org/wiki/File:Truck_receives_warning_(3698869372).jpg"
+      },
+      {
+        "image": "assets/photos/warning-triangle.jpg",
+        "label": "REFLECTIVE WARNING TRIANGLE",
+        "alt": "Photograph of a red reflective roadside warning triangle.",
+        "caption": "A real reflective triangle is shown; this specific photo was taken in Finland and does not show U.S. placement distances.",
+        "placement": "Portable roadside warning device",
+        "imageType": "Photograph",
+        "credit": "Santeri Viinamäki · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Red_triangle_of_a_car.jpg"
       }
     ],
     "facts": {
@@ -1883,6 +2115,20 @@
       "dvir-repair-loop",
       "visual-mechanical-defects",
       "safety-equipment"
+    ],
+    "details": [
+      {
+        "heading": "Level I",
+        "text": "A comprehensive driver and vehicle inspection includes items requiring access under the vehicle as well as driver credentials and operating requirements."
+      },
+      {
+        "heading": "Level II",
+        "text": "The walk-around driver and vehicle inspection covers items that can be examined without physically getting under the vehicle. It is not simply a shorter Level I with identical coverage."
+      },
+      {
+        "heading": "Level III",
+        "text": "A driver, credential, and administrative inspection focuses on applicable driver-related requirements. Inspection results and out-of-service decisions depend on the actual findings and current criteria."
+      }
     ]
   },
   {
@@ -1941,6 +2187,12 @@
       "engine-components",
       "models-by-manufacturer",
       "fuel-def-systems"
+    ],
+    "details": [
+      {
+        "heading": "Make and engine are separate",
+        "text": "A truck’s badge identifies the vehicle manufacturer, while the engine may be made by another company or by a related brand. Use the engine serial number and manufacturer records for exact identification and service information."
+      }
     ]
   },
   {
@@ -2001,6 +2253,12 @@
       "intro-tire-positions",
       "axle-configurations",
       "tire-damage"
+    ],
+    "details": [
+      {
+        "heading": "Fitment is specific",
+        "text": "Wheel diameter, width, bolt pattern, mounting method, offset, load rating, and tire compatibility matter. Similar-looking wheels are not necessarily interchangeable; use the manufacturer’s specifications and safe servicing procedures."
+      }
     ]
   },
   {
@@ -2054,6 +2312,12 @@
       "suspension-systems",
       "axle-configurations",
       "trailer-types"
+    ],
+    "details": [
+      {
+        "heading": "Axle group and suspension",
+        "text": "The axle supports wheels and transfers load; springs, hangers, dampers, and related parts connect the axle group to the trailer. Sliding tandems and lift axles change how some trailers are configured and loaded."
+      }
     ]
   },
   {
@@ -2113,6 +2377,16 @@
     "related": [
       "engine-components",
       "drivetrain-components"
+    ],
+    "details": [
+      {
+        "heading": "Manual, automated manual, automatic",
+        "text": "A manual uses driver-controlled shifts and clutch operation. An automated manual automates clutch and gear selection in a geared transmission. A conventional automatic typically uses a torque converter and planetary gears; design and controls vary."
+      },
+      {
+        "heading": "Application matters",
+        "text": "Gear selection depends on load, road speed, grade, engine torque, and the transmission’s shift strategy. A photographed selector alone does not identify internal hardware."
+      }
     ]
   },
   {
@@ -2177,13 +2451,23 @@
     "related": [
       "axle-configurations",
       "wheel-rim-types"
+    ],
+    "details": [
+      {
+        "heading": "Torque path",
+        "text": "Torque flows from the transmission through driveshafts and joints to the drive axle. The final drive changes speed and torque; the differential allows wheels on the same axle to turn at different speeds in a turn."
+      },
+      {
+        "heading": "What an inspection can show",
+        "text": "Leaks, damaged boots or guards, loose fittings, and visible joint damage are reasons for inspection. A photograph does not establish internal wear or a diagnosis."
+      }
     ]
   },
   {
     "slug": "dashboard-warning-symbols",
     "title": "Truck Dashboard Warning Symbols",
     "category": "Identification, safety, driver experience",
-    "summary": "A Freightliner dashboard and a separate older-truck mirror photograph show real truck driving equipment. Neither is used to claim a specific warning icon is active.",
+    "summary": "Two real dashboards provide instrument-panel context; exact warning-symbol meanings depend on the vehicle.",
     "tags": [
       "check engine",
       "ABS",
@@ -2203,16 +2487,6 @@
         "imageType": "Photograph",
         "credit": "Pierre André Leclercq · CC BY 4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Bakersfield,_Dashboard_Truck_Freightliner_cascadia_at_Flying_J_Travel_Plaza.jpg"
-      },
-      {
-        "image": "assets/photos/old-truck-mirror.jpg",
-        "label": "OLDER TRUCK CAB MIRROR VIEW",
-        "alt": "Close-up photograph of a rearview mirror mounted on an older truck.",
-        "caption": "This photo shows a truck mirror, not an instrument cluster or warning icon; it provides a separate real truck cab context view.",
-        "placement": "Exterior rearview mirror",
-        "imageType": "Photograph",
-        "credit": "Nenad Stojkovic · CC BY 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:Rearview_mirror_of_old_truck_closeup_(49357971608).jpg"
       },
       {
         "image": "assets/photos/old-truck-cabin.jpg",
@@ -2248,6 +2522,12 @@
     "related": [
       "cabin-interior",
       "cvsa-inspection-levels"
+    ],
+    "details": [
+      {
+        "heading": "Respond using the manual",
+        "text": "Read the actual message, color, and accompanying audible warning in the vehicle-specific operator manual. Warning symbols and required responses vary; an unidentified icon in a generic dashboard photo is not enough for a diagnosis."
+      }
     ]
   },
   {
@@ -2323,6 +2603,12 @@
     "related": [
       "trailer-connections",
       "safety-equipment"
+    ],
+    "details": [
+      {
+        "heading": "Identify by function",
+        "text": "Front, rear, side, turn, stop, clearance, and marker lamps serve different visibility and signaling functions. Required placement, color, and operation depend on vehicle configuration and applicable regulations."
+      }
     ]
   },
   {
@@ -2357,6 +2643,16 @@
         "imageType": "Photograph",
         "credit": "Panoha · CC BY-SA 3.0",
         "source": "https://commons.wikimedia.org/wiki/File:Rear_axles_tandem.jpg"
+      },
+      {
+        "image": "assets/photos/container-rear-doors.jpg",
+        "label": "EMPTY CONTAINER CHASSIS",
+        "alt": "Rear view of an empty container chassis attached to a tractor in California.",
+        "caption": "The empty skeletal trailer chassis reveals its rear structure and underride guard. It is a trailer chassis, distinct from the tractor frame.",
+        "placement": "Trailer chassis / rear",
+        "imageType": "Photograph",
+        "credit": "Eric Polk · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Container_trailer_rear_vierw.jpg"
       }
     ],
     "facts": {
@@ -2377,11 +2673,21 @@
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Rear_axles_tandem.jpg"
+      },
+      {
+        "title": "Container chassis rear photograph — Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Container_trailer_rear_vierw.jpg"
       }
     ],
     "related": [
       "axle-configurations",
       "drivetrain-components"
+    ],
+    "details": [
+      {
+        "heading": "Tractor frame versus trailer chassis",
+        "text": "A tractor frame supports the power unit and mounts components such as the fifth wheel. The separate skeletal trailer chassis in the photograph supports an intermodal container; check its locks and structural condition under the relevant procedures."
+      }
     ]
   },
   {
@@ -2441,6 +2747,12 @@
     "related": [
       "cab-types",
       "models-by-manufacturer"
+    ],
+    "details": [
+      {
+        "heading": "Ratings, not appearance",
+        "text": "GVWR is the manufacturer’s rated maximum weight of the individual vehicle, including its load. A combination’s rating and actual scale weights are different concepts. Verify the certification label and applicable definitions before assigning a class."
+      }
     ]
   },
   {
@@ -2500,13 +2812,19 @@
     "related": [
       "trailer-types",
       "truck-trailer-dimensions"
+    ],
+    "details": [
+      {
+        "heading": "Where devices work",
+        "text": "Cab fairings, gap devices, side skirts, and rear devices address airflow in different areas. Their benefit depends on configuration, speed, duty cycle, installation, and maintenance; no single photo proves a fuel-saving percentage."
+      }
     ]
   },
   {
     "slug": "mirrors-cameras",
     "title": "Truck Mirrors & Camera Systems",
     "category": "Identification, safety, driver experience",
-    "summary": "Two documentary photographs show actual truck mirrors mounted on vehicles; no camera-monitor system is inferred from these mirror photos.",
+    "summary": "Documentary photographs compare conventional truck mirrors with a source-identified camera and in-cab displays.",
     "tags": [
       "main mirror",
       "convex",
@@ -2533,14 +2851,34 @@
         "imageType": "Photograph",
         "credit": "Ted Gresham · CC BY 2.0",
         "source": "https://commons.wikimedia.org/wiki/File:Truck-driver-mirror_(14550031882).jpg"
+      },
+      {
+        "image": "assets/photos/truck-camera-displays.jpg",
+        "label": "CAMERA-MONITOR DISPLAYS",
+        "alt": "Paired photographs of the left and right in-cab camera displays of a 2021 Mercedes-Benz Actros.",
+        "caption": "The photographer identifies the displays as the left and right screens of a 2021 Mercedes-Benz Actros MirrorCam system.",
+        "placement": "Cab windshield pillars",
+        "imageType": "Photograph",
+        "credit": "KoeppiK · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Truck_digital_mirror_left_and_right.jpg"
+      },
+      {
+        "image": "assets/photos/truck-camera-detail.jpg",
+        "label": "EXTERIOR CAMERA DETAIL",
+        "alt": "Close photograph of a left-side truck mirror-replacement camera mounted on a 2021 Mercedes-Benz Actros.",
+        "caption": "The source identifies this as the left camera of the same model family. Camera position and monitor configuration vary by vehicle.",
+        "placement": "Cab exterior",
+        "imageType": "Photograph",
+        "credit": "KoeppiK · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Truck_digital_mirror_left_camera_detail.jpg"
       }
     ],
     "facts": {
       "what": "Commercial trucks use main, convex, hood-mounted, and other mirrors to help drivers monitor areas around the vehicle. Camera-monitor systems are a separate technology.",
-      "does": "A convex mirror provides a wider view with altered distance perception; any camera display must be interpreted using the vehicle maker’s guidance.",
+      "does": "Mirrors provide direct reflected views. Camera-monitor systems use exterior cameras and interior displays; placement, field of view, and regulatory approval vary by vehicle and jurisdiction.",
       "where": "Mirrors mount around cab sides and, depending on design, near the hood or front corners."
     },
-    "note": "The photographed mirror types are not fully model-identified. This pair contains no camera-monitor photograph, so it does not visually compare cameras with mirrors.",
+    "note": "The camera-monitor example is a European-market Mercedes-Benz Actros. Its presence here does not establish approval or fitment on any other vehicle.",
     "sources": [
       {
         "title": "FMCSA — Driver vehicle inspection report / vehicle inspection references",
@@ -2553,11 +2891,25 @@
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Truck-driver-mirror_(14550031882).jpg"
+      },
+      {
+        "title": "Truck digital mirror left and right.jpg — Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Truck_digital_mirror_left_and_right.jpg"
+      },
+      {
+        "title": "Truck digital mirror left camera detail.jpg — Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Truck_digital_mirror_left_camera_detail.jpg"
       }
     ],
     "related": [
       "cabin-interior",
       "visual-mechanical-defects"
+    ],
+    "details": [
+      {
+        "heading": "Coverage and limitations",
+        "text": "Main and convex mirrors provide different fields of view and apparent object sizes. Camera-monitor systems use an exterior camera and cab display; their configuration and legal approval depend on the vehicle and jurisdiction."
+      }
     ]
   },
   {
@@ -2617,6 +2969,12 @@
     "related": [
       "truck-classes",
       "trailer-types"
+    ],
+    "details": [
+      {
+        "heading": "Measure the relevant dimension",
+        "text": "Wheelbase, overall length, trailer length, height, and width are different measurements. Verify the actual vehicle, load, state route, and permit requirements; a side-view photograph is not a measurement."
+      }
     ]
   },
   {
@@ -2691,6 +3049,12 @@
     "related": [
       "tire-damage",
       "dvir-repair-loop"
+    ],
+    "details": [
+      {
+        "heading": "Observe, report, assess",
+        "text": "A pre-trip visual check can identify a possible defect, but it cannot establish all internal conditions. Record what was observed and follow the carrier’s repair and inspection process; an exposed cord or separation should not be treated as cosmetic."
+      }
     ]
   },
   {
@@ -2763,6 +3127,12 @@
     "related": [
       "highway-warning-devices",
       "visual-mechanical-defects"
+    ],
+    "details": [
+      {
+        "heading": "Equipment depends on the duty",
+        "text": "Reflective warning devices and fire extinguishers are among equipment addressed by U.S. federal rules for covered vehicles; other equipment depends on the vehicle, task, jurisdiction, and carrier procedure. A wheel chock has a different purpose from a roadside warning device."
+      }
     ]
   },
   {
@@ -2806,6 +3176,16 @@
         "imageType": "Photograph",
         "credit": "Thomas Vogt · CC BY 4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Semitrailer_rear_axle_(54757063900).jpg"
+      },
+      {
+        "image": "assets/photos/truck-tire-closeup.jpg",
+        "label": "TIRE AND WHEEL CLOSE VIEW",
+        "alt": "Close photograph of a truck tire mounted on a wheel.",
+        "caption": "A close view of one truck tire. The source does not establish whether this tire is for a steer, drive, or trailer position, or its specific road application.",
+        "placement": "Position is determined by axle location, not by this close-up",
+        "imageType": "Photograph",
+        "credit": "tequilamike · CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Close_up_of_truck_tire_(2266492596).jpg"
       }
     ],
     "facts": {
@@ -2835,6 +3215,16 @@
     "related": [
       "intro-tire-positions",
       "axle-configurations"
+    ],
+    "details": [
+      {
+        "heading": "Count the layout",
+        "text": "A common configuration has one steering axle on the tractor, two tractor drive axles, and two trailer axles. With two steer tires and dual tires at both ends of each remaining axle, the arithmetic is 2 + 8 + 8 = 18 tires."
+      },
+      {
+        "heading": "Why the answer varies",
+        "text": "Five axles describe axle lines, not a fixed number of tires. Wide-base single tires, lift axles, and other configurations can change the tire count; count the equipment actually present."
+      }
     ]
   },
   {
@@ -2893,6 +3283,16 @@
     "related": [
       "intro-tire-treads",
       "tire-damage"
+    ],
+    "details": [
+      {
+        "heading": "Federal measurement",
+        "text": "For the front wheels of a power unit, 49 CFR 393.75 specifies at least 4/32 inch in every major tread groove. Other tires require at least 2/32 inch. Measurements exclude the location of tread wear indicators or tie bars."
+      },
+      {
+        "heading": "Practical inspection",
+        "text": "Use a tread-depth gauge in major grooves and inspect across the tread. Depth alone does not establish that a tire is safe: cuts, exposed cord, separation, and other defects have separate requirements. Additional state or operating requirements may apply."
+      }
     ]
   },
   {
@@ -2926,6 +3326,16 @@
         "imageType": "Photograph",
         "credit": "Panoha · CC BY-SA 3.0",
         "source": "https://commons.wikimedia.org/wiki/File:Turbocharger_assembly.jpg"
+      },
+      {
+        "image": "assets/photos/truck-air-compressor.jpg",
+        "label": "TRUCK AIR COMPRESSOR",
+        "alt": "Truck air compressor with Cummins branding visible on the housing.",
+        "caption": "The image source identifies a truck air compressor; the Cummins name is visible on the photographed part. It is a photo of one component, not a complete engine layout.",
+        "placement": "Engine accessory / compressed-air system",
+        "imageType": "Photograph",
+        "credit": "Panoha · CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Truck_air_compressor.jpg"
       }
     ],
     "facts": {
@@ -2951,6 +3361,20 @@
     "related": [
       "aftertreatment-order",
       "fuel-def-systems"
+    ],
+    "details": [
+      {
+        "heading": "Passive regeneration",
+        "text": "Heat produced during normal operation can burn accumulated soot when exhaust conditions are sufficient. It may happen without the driver initiating an event."
+      },
+      {
+        "heading": "Active and parked regeneration",
+        "text": "Active regeneration uses additional heat or fuel when needed; it can occur while driving or during a stationary event. A parked regeneration is a stationary procedure required by some systems under certain conditions. Follow the vehicle’s prompts and OEM instructions, including site and exhaust-clearance requirements."
+      },
+      {
+        "heading": "Soot and ash",
+        "text": "Regeneration removes soot; noncombustible ash can still accumulate and eventually require filter service. Repeated requests or warning lights deserve diagnosis rather than repeated forced cycles."
+      }
     ]
   },
   {
@@ -3009,6 +3433,12 @@
     "related": [
       "fuel-def-systems",
       "aftertreatment-order"
+    ],
+    "details": [
+      {
+        "heading": "Freeze and thaw",
+        "text": "DEF freezes at about 12°F (−11°C). Vehicle systems designed for DEF generally include provisions for thawing; follow the equipment manual and protect DEF from contamination. Do not infer the fluid’s condition from the exterior of a truck."
+      }
     ]
   },
   {
@@ -3067,6 +3497,12 @@
     "related": [
       "dvir-repair-loop",
       "leading-vs-lagging-indicators"
+    ],
+    "details": [
+      {
+        "heading": "Turn observations into action",
+        "text": "Compare the intended plan with a timeline and actual records, discuss what helped and what could improve, and assign specific follow-up actions. The wording and the meaning of AAR can differ by organization."
+      }
     ]
   },
   {
@@ -3125,6 +3561,16 @@
     "related": [
       "leading-vs-lagging-indicators",
       "reorder-point"
+    ],
+    "details": [
+      {
+        "heading": "Different questions",
+        "text": "A budget sets an approved target or spending authority for a period. A forecast estimates the likely outcome using information available now; a forecast can differ from the original budget."
+      },
+      {
+        "heading": "Example",
+        "text": "A fleet budgets $10,000 for maintenance but forecasts $12,000 after an unexpected repair. Track the $2,000 variance and its causes rather than treating the forecast as automatic approval to spend."
+      }
     ]
   },
   {
@@ -3159,6 +3605,16 @@
         "imageType": "Photograph",
         "credit": "Panoha · CC BY-SA 3.0",
         "source": "https://commons.wikimedia.org/wiki/File:Air_disc_brake.jpg"
+      },
+      {
+        "image": "assets/photos/trailer-tread-separation.jpg",
+        "label": "TREAD SEPARATION",
+        "alt": "Photograph of a truck tire with tread separation.",
+        "caption": "The source identifies tread separation. A photograph alone does not establish the failure cause.",
+        "placement": "Tire tread / casing",
+        "imageType": "Photograph",
+        "credit": "Heyyouoverthere · CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Trailer_tire_with_tread_separating.jpg"
       }
     ],
     "facts": {
@@ -3183,11 +3639,25 @@
       {
         "title": "Photograph source — Wikimedia Commons",
         "url": "https://commons.wikimedia.org/wiki/File:Air_disc_brake.jpg"
+      },
+      {
+        "title": "49 CFR § 396.11 — Driver vehicle inspection reports",
+        "url": "https://www.ecfr.gov/current/title-49/section-396.11"
       }
     ],
     "related": [
       "visual-mechanical-defects",
       "brake-systems"
+    ],
+    "details": [
+      {
+        "heading": "Report and assess",
+        "text": "A driver reports defects or deficiencies that could affect safe operation or cause a breakdown. For most interstate property-carrying vehicles, a federal no-defect report is not required; passenger-carrying vehicles and other rules can differ."
+      },
+      {
+        "heading": "Repair and certify",
+        "text": "Before dispatch, the carrier must correct reported defects likely to affect safe operation. The carrier or its agent certifies that the defect was corrected or that correction was unnecessary; the next driver reviews the last report and signs when required. Retain the report and certifications for the required period."
+      }
     ]
   },
   {
@@ -3250,6 +3720,16 @@
     "related": [
       "dashboard-warning-symbols",
       "engine-components"
+    ],
+    "details": [
+      {
+        "heading": "Interpret the code as a clue",
+        "text": "FMI describes the type of abnormal condition associated with a suspect parameter; it does not identify the failed part. For example, a low-voltage indication may come from wiring, supply, sensor, or controller problems."
+      },
+      {
+        "heading": "Diagnostic sequence",
+        "text": "Record the full SPN/FMI, occurrence count, operating conditions, and vehicle-specific fault information. Follow the OEM diagnostic procedure and electrical safety practices before replacing components."
+      }
     ]
   },
   {
@@ -3312,6 +3792,16 @@
     "related": [
       "trailer-connections",
       "gladhand"
+    ],
+    "details": [
+      {
+        "heading": "Scope of the answer",
+        "text": "In the standard heavy-truck SAE J560 configuration, circuit 4 is the red stop-lamp circuit, also used for secondary ABS power in the referenced wiring table. Other seven-way connector families and fleet modifications can differ."
+      },
+      {
+        "heading": "Verify before work",
+        "text": "Confirm connector type, pin orientation, wiring diagram, and circuit function on the vehicle. Wire color alone is not proof of function, especially after repairs or modifications."
+      }
     ]
   },
   {
@@ -3369,6 +3859,16 @@
     "related": [
       "engine-components",
       "brake-systems"
+    ],
+    "details": [
+      {
+        "heading": "Source versus condition",
+        "text": "OEM and aftermarket describe supply or origin; remanufactured describes a restoration process. A part can be both OEM-supplied and remanufactured, so these labels are not mutually exclusive."
+      },
+      {
+        "heading": "Compare the actual part",
+        "text": "Check fitment, specifications, warranty, core charges and return conditions, traceability, and the remanufacturer’s documented process. A used part is not automatically remanufactured."
+      }
     ]
   },
   {
@@ -3427,6 +3927,16 @@
     "related": [
       "oem-aftermarket-reman",
       "budget-vs-forecast"
+    ],
+    "details": [
+      {
+        "heading": "Worked example",
+        "text": "If demand averages 4 filters per day, replenishment lead time is 5 days, and safety stock is 10 filters, reorder at 4 × 5 + 10 = 30 filters."
+      },
+      {
+        "heading": "What can invalidate it",
+        "text": "Use consistent units and account for variability in demand and lead time. The formula triggers replenishment; order quantity is a separate decision, and open purchase orders affect inventory position."
+      }
     ]
   },
   {
@@ -3485,6 +3995,16 @@
     "related": [
       "budget-vs-forecast",
       "dvir-repair-loop"
+    ],
+    "details": [
+      {
+        "heading": "Use both kinds",
+        "text": "Inspection completion or timely closure of defects can show whether a process is being performed. Breakdowns and injury counts describe outcomes that have already occurred."
+      },
+      {
+        "heading": "Avoid false confidence",
+        "text": "A high completion rate is useful only if inspections are effective and defects are reported accurately. Pair activity measures with quality checks and outcome measures, and define the measurement period and denominator."
+      }
     ]
   },
   {
@@ -3543,6 +4063,16 @@
     "related": [
       "shipper-broker-carrier",
       "invoice-packet"
+    ],
+    "details": [
+      {
+        "heading": "At pickup",
+        "text": "The bill of lading identifies the shipment and parties and documents the goods tendered for carriage. Details, exceptions, signatures, and the applicable contract determine its legal effect."
+      },
+      {
+        "heading": "At delivery",
+        "text": "Proof of delivery records evidence of delivery, often through a signed document or electronic record. Check delivery exceptions, dates, and customer requirements before billing; a BOL and POD may be separate documents or combined."
+      }
     ]
   },
   {
@@ -3600,6 +4130,16 @@
     "related": [
       "detention-calculation",
       "invoice-packet"
+    ],
+    "details": [
+      {
+        "heading": "Record the event",
+        "text": "Document the accepted load, dispatch, cancellation time, truck position, communications, and agreed charge. Whether compensation is owed depends on the rate confirmation and other contract terms."
+      },
+      {
+        "heading": "Related charges",
+        "text": "TONU addresses a load that does not move after a truck is ordered or committed. Detention addresses qualifying waiting time; a contract determines whether either charge applies."
+      }
     ]
   },
   {
@@ -3662,6 +4202,16 @@
     "related": [
       "shipper-broker-carrier",
       "detention-calculation"
+    ],
+    "details": [
+      {
+        "heading": "A contract-driven adjustment",
+        "text": "An FSC formula may use a published fuel index, a baseline price, a fuel-economy assumption, and an agreed mileage basis. The contract defines timing, rounding, exclusions, and the party charged."
+      },
+      {
+        "heading": "Simple illustration",
+        "text": "If an agreement sets a surcharge of $0.20 per loaded mile and the billable distance is 1,000 loaded miles, the surcharge is $200. This is an example, not a universal rate or formula."
+      }
     ]
   },
   {
@@ -3720,6 +4270,16 @@
     "related": [
       "tonu",
       "invoice-packet"
+    ],
+    "details": [
+      {
+        "heading": "Worked example",
+        "text": "If the contract allows two hours free and recognizes a documented four-hour wait, two hours may be chargeable. At an agreed $75 per hour, the example is 2 × $75 = $150 before any contractual rounding, caps, or exclusions."
+      },
+      {
+        "heading": "Evidence and terms",
+        "text": "Record the times and events specified in the agreement, such as arrival, check-in, release, and departure. Appointment compliance, notice deadlines, approvals, and the party responsible can change the amount or eligibility."
+      }
     ]
   },
   {
@@ -3779,6 +4339,16 @@
     "related": [
       "bol-pod",
       "net-30"
+    ],
+    "details": [
+      {
+        "heading": "Build from the agreement",
+        "text": "Match the invoice to the customer’s purchase order, load or reference number, rate, agreed accessorials, and required delivery evidence. Packet requirements vary by customer and contract."
+      },
+      {
+        "heading": "Avoid delays",
+        "text": "Check that signatures or electronic delivery evidence are legible, dates match the shipment, and supporting approvals and timestamps accompany accessorial charges. Keep the original records according to applicable requirements."
+      }
     ]
   },
   {
@@ -3836,6 +4406,16 @@
     "related": [
       "invoice-packet",
       "freight-factoring"
+    ],
+    "details": [
+      {
+        "heading": "Find the start date",
+        "text": "Count from the date defined in the agreement. Invoice date, receipt date, and acceptance of a complete invoice packet can produce different due dates."
+      },
+      {
+        "heading": "Example",
+        "text": "If a contract specifies 30 calendar days from an invoice dated June 1, the due date is July 1. Confirm any terms for weekends, disputes, or payment processing."
+      }
     ]
   },
   {
@@ -3893,6 +4473,16 @@
     "related": [
       "net-30",
       "invoice-packet"
+    ],
+    "details": [
+      {
+        "heading": "How cash moves",
+        "text": "A factor advances part of an eligible receivable, collects according to the agreement, then settles any reserve less fees and adjustments. The advance is not the same as the total net proceeds."
+      },
+      {
+        "heading": "Compare contracts",
+        "text": "Review recourse and non-recourse terms, reserve release, minimums, fees, notice of assignment, customer credit limits, and handling of disputed invoices. A factor’s collection rights depend on the contract and applicable law."
+      }
     ]
   },
   {
@@ -3950,6 +4540,16 @@
     "related": [
       "visual-mechanical-defects",
       "budget-vs-forecast"
+    ],
+    "details": [
+      {
+        "heading": "Define the clock",
+        "text": "Specify whether downtime begins at breakdown, arrival in the shop, or missed dispatch, and whether it ends at repair completion or return to service. Consistent definitions make fleet comparisons useful."
+      },
+      {
+        "heading": "Diagnose the cost",
+        "text": "Break out repair labor and parts, towing, replacement equipment, lost productive time, and other contract-specific costs. Avoid double-counting a missed load and a replacement expense."
+      }
     ]
   },
   {
@@ -4007,6 +4607,16 @@
     "related": [
       "shipper-broker-carrier",
       "power-only-swap"
+    ],
+    "details": [
+      {
+        "heading": "Measure consistently",
+        "text": "Record miles driven without revenue freight and choose a consistent denominator for a deadhead percentage, such as total miles. A 100-mile empty repositioning trip on a 500-mile total trip is 20% of total miles."
+      },
+      {
+        "heading": "Operational tradeoff",
+        "text": "A repositioning move can still be economically useful if it enables a better next load. Compare total trip revenue, cost, time, and available alternatives rather than judging one percentage in isolation."
+      }
     ]
   },
   {
@@ -4065,6 +4675,12 @@
     "related": [
       "deadhead",
       "fifth-wheel"
+    ],
+    "details": [
+      {
+        "heading": "Define the arrangement",
+        "text": "A power-unit change can keep a trailer moving when a tractor or driver changes, but carrier terminology differs. Document the unit and trailer identifiers, condition, location, custody, and dispatch instructions at the exchange."
+      }
     ]
   }
 ]

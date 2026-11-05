@@ -4,7 +4,7 @@ Truck Library is a static, photo-first field guide for U.S. trucking equipment, 
 
 ## Current build
 
-The site has a responsive, searchable single-page catalog with category filters, direct hash links, accessible detail and photo-zoom dialogs, and 63 source-backed photo guides. The library uses 70 distinct licensed documentary photographs across 153 labeled gallery views. See [PROGRESS.md](PROGRESS.md) and [docs/COVERAGE.md](docs/COVERAGE.md).
+The site has a responsive, searchable single-page catalog with category filters, direct hash links, accessible detail and photo-zoom dialogs, and 63 source-backed photo guides. The library uses 74 distinct licensed documentary photographs across 162 labeled gallery views. See [PROGRESS.md](PROGRESS.md) and [docs/COVERAGE.md](docs/COVERAGE.md).
 
 The gallery uses documentary photographs only. It does not use infographics or generated images as photo substitutes. A small SVG monogram is used as the site icon and wordmark.
 

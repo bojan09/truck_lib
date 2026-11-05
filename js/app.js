@@ -34,7 +34,7 @@ let priorFocus = null;
 let zoomReturnFocus = null;
 
 const normalise = value => String(value ?? '').toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
-const escapeText = value => String(value ?? '');
+const escapeText = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 const topicUrl = id => `#gallery/${encodeURIComponent(id)}`;
 
 function buildSearchText(topic, gallery) {
@@ -188,6 +188,7 @@ function makeDetailMarkup(topic, gallery) {
     <h2 id="detail-title">${escapeText(topic.title)}</h2>
     <p class="detail-intro">${escapeText(gallery.summary)}</p>
     <div class="detail-facts">${facts}</div>
+    ${(gallery.details ?? []).map(section => `<section class="fact"><h3>${escapeText(section.heading)}</h3><p>${escapeText(section.text)}</p></section>`).join('')}
     <div class="detail-subhead"><h3>Compare the views</h3><span>${gallery.items.length} PHOTOGRAPHS · SELECT TO ENLARGE</span></div>
     <div class="detail-items detail-items-${gallery.items.length}">${items}</div>
     <div class="notice-box"><span class="notice-label">Important distinction</span><p>${escapeText(gallery.note)}</p></div>

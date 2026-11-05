@@ -851,6 +851,54 @@
       "licenseBasis": "CC BY 2.0; attribution required.",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "modifications": "Commons-generated 960 px thumbnail; no crop or other edits."
+    },
+    {
+      "id": "van-trailer-rear",
+      "image": "photos/van-trailer-rear.jpg",
+      "imageType": "Photograph",
+      "depicts": "Rear view of a Knight Transportation semitrailer with two closed, hinged doors and locking bars.",
+      "alt": "Rear view of a Knight Transportation semitrailer with two closed, hinged doors and locking bars.",
+      "ownerCredit": "Eric Polk",
+      "source": "https://commons.wikimedia.org/wiki/File:Knight_transportation_trailer_-_rear.jpg",
+      "licenseBasis": "CC BY-SA 4.0; attribution and share-alike required.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Commons-generated 960 px thumbnail; no crop or other edits."
+    },
+    {
+      "id": "container-chassis-rear",
+      "image": "photos/container-rear-doors.jpg",
+      "imageType": "Photograph",
+      "depicts": "Rear view of an empty container chassis attached to a tractor in California.",
+      "alt": "Rear view of an empty container chassis attached to a tractor in California.",
+      "ownerCredit": "Eric Polk",
+      "source": "https://commons.wikimedia.org/wiki/File:Container_trailer_rear_vierw.jpg",
+      "licenseBasis": "CC BY-SA 4.0; attribution and share-alike required.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Commons-generated 960 px thumbnail; no crop or other edits."
+    },
+    {
+      "id": "truck-camera-displays",
+      "image": "photos/truck-camera-displays.jpg",
+      "imageType": "Photograph",
+      "depicts": "Paired photographs of the left and right in-cab camera displays of a 2021 Mercedes-Benz Actros.",
+      "alt": "Paired photographs of the left and right in-cab camera displays of a 2021 Mercedes-Benz Actros.",
+      "ownerCredit": "KoeppiK",
+      "source": "https://commons.wikimedia.org/wiki/File:Truck_digital_mirror_left_and_right.jpg",
+      "licenseBasis": "CC BY-SA 4.0; attribution and share-alike required.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Commons-generated 960 px thumbnail; no crop or other edits."
+    },
+    {
+      "id": "truck-camera-detail",
+      "image": "photos/truck-camera-detail.jpg",
+      "imageType": "Photograph",
+      "depicts": "Close photograph of a left-side truck mirror-replacement camera mounted on a 2021 Mercedes-Benz Actros.",
+      "alt": "Close photograph of a left-side truck mirror-replacement camera mounted on a 2021 Mercedes-Benz Actros.",
+      "ownerCredit": "KoeppiK",
+      "source": "https://commons.wikimedia.org/wiki/File:Truck_digital_mirror_left_camera_detail.jpg",
+      "licenseBasis": "CC BY-SA 4.0; attribution and share-alike required.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Commons-generated 960 px thumbnail; no crop or other edits."
     }
   ]
 }
