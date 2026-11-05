@@ -6,7 +6,7 @@ Last updated: 2026-11-05.
 
 | Phase | Status | Scope |
 |---|---|---|
-| 0 — Inspect and plan | Complete | Repository audit, static constraints, accuracy policy, proposed layout, 33-subject checklist |
+| 0 — Inspect and plan | Complete | Repository audit, static constraints, accuracy policy, proposed layout, 63-entry checklist |
 | 1 — Foundation | Not started | Responsive gallery index, search/filters, data loader, deep links, accessible detail and zoom |
 | 2 — Intro galleries | Not started | Truck tire tread patterns, tire positions, four tractor brands |
 | 3 — Vehicles/configuration | Not started | Galleries 1, 2, 3, 23, 27, 30 |
@@ -22,7 +22,8 @@ Last updated: 2026-11-05.
 - A separate `/home/stan/projects/truck_atlas` repository exists. Its README and progress log describe a different evidence-first planning track and an active procedural 3D study tool; it has a configured `truck-atlas` remote and uncommitted changes. It is preserved and not copied or modified.
 - The new work uses this dedicated `trucking-library` directory and the requested Truck Library name. The attached brief's internal “TruckAtlas” branding is superseded by the user's naming instruction.
 - Static-only constraints and the proposed directory layout are recorded in [README.md](README.md).
-- All 33 distinct subjects are listed with IDs and status in [docs/COVERAGE.md](docs/COVERAGE.md). Nothing is marked complete until a gallery has multiple distinct labeled visuals and documented sources/assets.
+- The original 33 galleries and 30 additional owner-requested topics are listed with IDs and status in [docs/COVERAGE.md](docs/COVERAGE.md). Nothing is marked complete until its planned visuals, facts, sources, and navigation exist.
+- The additional request includes visual learning topics for equipment, safety/regulatory references, vehicle diagnostics, and freight operations and finance. Use original diagrams and worked examples where appropriate; verify source-sensitive U.S. claims before publication.
 - Source/rights requirements are recorded in [ASSET_SOURCES.md](ASSET_SOURCES.md). No new visual assets or source claims were added in this phase.
 
 ## Verification
