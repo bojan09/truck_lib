@@ -4,7 +4,7 @@ Truck Library is a planned static, image-first field guide to American heavy-dut
 
 ## Status
 
-Phase 0 is complete: repository and scope inspection, implementation plan, accuracy policy, and a 33-gallery coverage checklist. The galleries and browsing experience are not implemented yet. See [PROGRESS.md](PROGRESS.md) and [docs/COVERAGE.md](docs/COVERAGE.md).
+Phase 0 is complete: repository and scope inspection, implementation plan, accuracy policy, and a 63-entry coverage checklist. The galleries and browsing experience are not implemented yet. See [PROGRESS.md](PROGRESS.md) and [docs/COVERAGE.md](docs/COVERAGE.md).
 
 ## Technical direction
 
