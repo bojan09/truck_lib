@@ -85,7 +85,7 @@ All gallery visuals are real photographs. The site mark is the only authored SVG
 ## Completeness audit
 
 - 63 unique topics: 3 introductory, 30 core, and 30 additional requested subjects.
-- 63 navigable galleries with 161 labeled photograph views from 74 distinct local photographs.
+- 63 navigable galleries with 161 labeled photograph views from 75 distinct local photographs.
 - All topic records are marked ready; every gallery has at least two views and links to its source references.
 - Every image path resolves to a local file and a documented asset record in [`assets/manifest.json`](../assets/manifest.json).
 - Financial and operational concepts use real trucking or freight photographs as context; captions do not imply those images depict invoices, formulas, contracts, or specific work events.
@@ -93,6 +93,6 @@ All gallery visuals are real photographs. The site mark is the only authored SVG
 
 ## Audit limitations
 
-The catalog has been reviewed for subject coverage, photo descriptions, asset records, and missing routes. Four new documentary photographs show hinged trailer doors, a container chassis, and an actual truck camera and displays. A roll-up trailer door and model-identified truck warning lights are discussed but are not pictured; the relevant guides say so. Some business and safety concepts use photographs for operational context and cannot be verified from an image. Regulatory details are jurisdiction- and date-specific, and the material has not received independent subject-matter expert review.
+The catalog has been reviewed for subject coverage, photo descriptions, asset records, and missing routes. Four new documentary photographs show hinged trailer doors, a container chassis, and an actual truck camera and displays. A full roll-up trailer door and model-identified truck warning lights are discussed but are not pictured; a delivery-truck roll-up latch is shown; the relevant guides say so. Some business and safety concepts use photographs for operational context and cannot be verified from an image. Regulatory details are jurisdiction- and date-specific, and the material has not received independent subject-matter expert review.
 
 Detailed claim inventory and verification status: [CLAIM_AUDIT.md](CLAIM_AUDIT.md).

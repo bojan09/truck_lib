@@ -21,7 +21,7 @@ Last updated: 2026-11-05.
 - Project name: **Truck Library**, overriding the attached brief’s TruckAtlas name.
 - The attached brief contributed 33 topics; the user added 30 more. The catalog contains 63 unique subjects.
 - Static HTML, CSS, vanilla JavaScript, and local JSON; no build system, database, or paid service.
-- The library contains 63 navigable guides, 161 labeled views, and 74 distinct local photographs. Every gallery has at least two views.
+- The library contains 63 navigable guides, 161 labeled views, and 75 distinct local photographs. Every gallery has at least two views.
 - The user requested real images. All gallery visuals are documentary photographs; no infographic or generated illustration is used as a gallery image. The small site mark is an authored SVG.
 - Photo licensing, credits, source pages, alt text, depiction, and modification notes are recorded in [`assets/manifest.json`](assets/manifest.json); item credits and image links appear in each guide.
 - Photos used for abstract freight or finance concepts are identified as context and do not pretend to depict formulas, documents, contract terms, or a particular transaction.
@@ -43,3 +43,9 @@ Final checks are recorded after the completed browser and data audit. Topic coun
 - [Claim and source inventory](docs/CLAIM_AUDIT.md) records all guides and explicitly distinguishes limited verified claims from unresolved claim-level checks. [Photo rights audit](docs/PHOTO_RIGHTS_AUDIT.json) records Commons metadata checks.
 - Checked 63 catalog routes, related identifiers, 161 photo views, 74 locally decoded images, credit/source fields, example arithmetic, JavaScript syntax, and whitespace. In a local browser, checked search, a guide, photo zoom and Escape focus restoration; at a 390px viewport, the page did not overflow horizontally. This is not a full accessibility audit.
 - Automated HEAD requests checked 44 technical-source URLs; several 404 references were replaced. Multiple sites returned 403 or 503 and could not be classified as broken by that method. No independent practitioner review occurred.
+
+## Corrections and readability — 2026-11-05
+
+- Rechecked the Flickr and Pexels source pages; corrected the photographed shift mechanism description and removed an unsupported cab location and model claim.
+- Corrected photo counts and unsupported model identifications in multiple guide summaries. Added a licensed delivery-truck roll-up latch photo, with explicit limitations.
+- Added direct license links when available and increased guide text and credit sizes; the mobile guide uses a single photo column. The browser showed a 390-pixel viewport with no horizontal page overflow, 14-pixel guide text, 12-pixel credits, and both tested photos loaded.

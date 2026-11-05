@@ -1,6 +1,6 @@
 {
   "checked": "2026-11-05",
-  "scope": "Commons license metadata, not independent copyright verification; Flickr and Pexels not rechecked",
+  "scope": "Commons license metadata and source-page checks for Flickr and Pexels; not independent copyright verification",
   "records": [
     {
       "id": "truck-tire-closeup",
@@ -579,6 +579,29 @@
       "api_license": "CC BY-SA 4.0",
       "artist": "KoeppiK",
       "found": true
+    },
+    {
+      "id": "rollup-door-latch",
+      "title": "File:Whiting latch.jpg",
+      "basis": "CC BY-SA 4.0; attribution and share-alike required.",
+      "api_license": "CC BY-SA 4.0",
+      "artist": "Eric Polk",
+      "found": true,
+      "verification_note": "Source description and photo visually reviewed 2026-11-05."
+    }
+  ],
+  "additional_checks": [
+    {
+      "id": "landing-gear-handle",
+      "source": "https://www.flickr.com/photos/toddmccann/15107246922",
+      "observed": "Todd McCann; source links to CC BY 2.0",
+      "checked": "2026-11-05"
+    },
+    {
+      "id": "industrial-truck-tires-pexels",
+      "source": "https://www.pexels.com/photo/close-up-photo-of-a-truck-s-tire-5578887/",
+      "observed": "Joseph Fuller; Pexels page labels image free and links to its license",
+      "checked": "2026-11-05"
     }
   ]
 }

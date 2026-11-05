@@ -94,7 +94,7 @@ function createReadyCard(topic, gallery, index) {
   image.loading = 'lazy';
   const number = document.createElement('span');
   number.className = 'card-index';
-  number.textContent = `GUIDE 0${String(index + 1).padStart(1,'0')}`;
+  number.textContent = `GUIDE ${String(index + 1).padStart(2,'0')}`;
   const badge = document.createElement('span');
   badge.className = 'card-type';
   badge.textContent = 'Visual guide';
@@ -180,7 +180,7 @@ function makeDetailMarkup(topic, gallery) {
       <img src="${escapeText(item.image)}" alt="${escapeText(item.alt)}" width="520" height="300">
       <span class="zoom-cue" aria-hidden="true">＋ VIEW</span>
     </button>
-    <div class="detail-item-copy"><p>${escapeText(item.caption)}</p><p class="item-placement">${escapeText(item.placement)} · ${escapeText(item.imageType)}</p><p class="photo-credit">${escapeText(item.credit ?? 'Credit listed in image sources')} · <a href="${escapeText(item.source ?? '#')}" target="_blank" rel="noreferrer">Image source ↗</a></p></div>
+    <div class="detail-item-copy"><p>${escapeText(item.caption)}</p><p class="item-placement">${escapeText(item.placement)} · ${escapeText(item.imageType)}</p><p class="photo-credit">${escapeText(item.credit ?? 'Credit listed in image sources')} · <a href="${escapeText(item.source ?? '#')}" target="_blank" rel="noreferrer" aria-label="Image source for ${escapeText(item.label)}">Image source ↗</a>${item.licenseUrl ? ` · <a href="${escapeText(item.licenseUrl)}" target="_blank" rel="noreferrer" aria-label="License for ${escapeText(item.label)}">License ↗</a>` : ''}</p></div>
   </article>`).join('');
   const sources = gallery.sources.map(source => `<li><a href="${escapeText(source.url)}" target="_blank" rel="noreferrer">${escapeText(source.title)} ↗</a></li>`).join('');
   const related = (gallery.related ?? []).map(id => topicById.get(id)).filter(Boolean).map(item => `<a class="related-link" href="${topicById.get(item.slug)?.status === 'ready' ? topicUrl(item.slug) : '#library'}">${escapeText(item.title)} ↗</a>`).join('');

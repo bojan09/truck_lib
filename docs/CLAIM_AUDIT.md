@@ -26,13 +26,13 @@ The current rule at [49 CFR 396.11](https://www.ecfr.gov/current/title-49/sectio
 
 ## Photo and rights checks
 
-All 74 distinct local images are documented in the asset manifest and are used as photographs. Wikimedia Commons API license metadata was queried for 72 source records: 70 resolved on the initial pass, and two double-encoded titles were subsequently resolved and their source URLs corrected. Recorded license labels were consistent with the returned labels or the stated public-domain basis. That metadata check is not an independent legal opinion, a reinspection of every image’s subject, or a guarantee that a photographer had authority to grant the license. One Flickr and one Pexels source were not rechecked during this pass. Visual relevance and redundant use across guides require further review; the source and caption inventories below make that work inspectable.
+All 75 distinct local images are documented in the asset manifest and are used as photographs. Wikimedia Commons API license metadata was queried for 73 source records: 70 resolved on the initial pass, two double-encoded titles were subsequently resolved and their source URLs corrected, and the roll-up latch record was verified separately. Recorded license labels were consistent with the returned labels or the stated public-domain basis. That metadata check is not an independent legal opinion, a reinspection of every image’s subject, or a guarantee that a photographer had authority to grant the license. The Flickr source page links to CC BY 2.0, and the Pexels source page identifies the photo as free and links to the Pexels license; both were rechecked on 2026-11-05. Visual relevance and redundant use across guides require further review; the source and caption inventories below make that work inspectable.
 
 ## Validation and remaining evidence gaps
 
 - Catalog, local image existence and decoding, source metadata presence, and related-topic references are checked programmatically; browser checks are documented in the project progress record.
 - The detention, reorder point, fuel surcharge, and deadhead examples use explicitly stated assumptions; real terms and definitions are contract- or fleet-specific. Verify sample arithmetic separately.
-- Exact truck warning icons and a trailer roll-up door are not directly pictured. Several financial concepts intentionally use operational-context photos rather than pictures of the abstract terms.
+- Exact truck warning icons and a full trailer roll-up door are not directly pictured; a delivery-truck roll-up latch is shown. Several financial concepts intentionally use operational-context photos rather than pictures of the abstract terms.
 - AAR is interpreted as After Action Review; the requester’s intended expansion is unconfirmed. SAE J1939 diagnostics require an OEM-specific procedure.
 - No independent qualified practitioner was available through this workspace. No external review has been represented as completed.
 - Current primary-source traceability is incomplete for most explanatory sentences, especially product comparisons and business practices. Generic home pages labeled “Context only” do not establish contract-specific claims. Independently verify those sentences and obtain owner-approved documents or primary specifications before representing the reference as professionally certified.
@@ -226,7 +226,7 @@ Photo evidence (manifest license and caption):
 
 Priority finding: No claim-level source verification completed in this pass.
 
-- Claim (what): Four source-verified make/model examples.
+- Claim (what): Four photographed manufacturer examples: two source-identified models and two make-only examples.
 - Claim (does): Distinguishes exact model identification from a make-only photograph.
 - Claim (where): Truck model names refer to manufacturer product designations; source gaps are stated on the image label.
 - Claim (Verify a model): A badge or photographed appearance is a starting point. Confirm a specific model and year against the vehicle identification number and manufacturer records; the image source may establish only the make.
@@ -278,7 +278,7 @@ Photo evidence (manifest license and caption):
 
 - [HINGED REAR DOORS](https://commons.wikimedia.org/wiki/File:Knight_transportation_trailer_-_rear.jpg) — Two closed hinged doors and their vertical locking bars are visible. The photograph does not show their interior or operation. Rights record: Eric Polk; CC BY-SA 4.0; attribution and share-alike required..
 - [FOLDABLE TAIL LIFT](https://commons.wikimedia.org/wiki/File:Faltbare_Hubladebuehne.jpg) — A tail lift is mounted at the rear and helps move freight between the trailer floor and ground; it is separate from the door itself. Rights record: Wolfgang Hägele; CC BY-SA 3.0; attribution and share-alike terms apply..
-- [CURTAINSIDE BODY STYLE](https://commons.wikimedia.org/wiki/File:Curtainside_trailers_at_Display_UK,_Sandbeck_Lane,_Wetherby_(24th_March_2019).jpg) — A curtainsider has flexible side curtains; it is a body style rather than a specific rear-door mechanism. Rights record: Mtaylor848; CC BY-SA 4.0; attribution and share-alike terms apply..
+- [ROLL-UP DOOR LATCH](https://commons.wikimedia.org/wiki/File:Whiting_latch.jpg) — The source identifies the latch as part of a delivery-truck roll-up door. The close-up shows the latch and strap, not the full door or a semitrailer. Rights record: Eric Polk; CC BY-SA 4.0; attribution and share-alike required..
 
 ### Trailer Connections & Hoses (`trailer-connections`)
 
@@ -637,10 +637,10 @@ Photo evidence (manifest license and caption):
 Priority finding: Checked that I-Shift is an automated manual transmission against Volvo documentation; the full comparison still requires manufacturer-specific verification.
 
 - Claim (what): A truck transmission changes the relationship between engine speed and drive-wheel speed. Manual, automated manual (AMT), and automatic describe different shift/control strategies and hardware designs.
-- Claim (does): The gearbox cutaway shows internal hardware while the I-Shift photograph shows a control component. They should not be treated as equivalent views of the same part.
-- Claim (where): The gearbox sits behind the engine; driver controls are in the cab. Exact layout varies by truck.
+- Claim (does): The museum cutaway exposes gears; the other image shows a truck gear-shift control mechanism. They are not the same component.
+- Claim (where): The gearbox is part of the driveline; a photographed shift mechanism should not be mistaken for a cab-mounted selector. Layout varies by truck.
 - Claim (Manual, automated manual, automatic): A manual uses driver-controlled shifts and clutch operation. An automated manual automates clutch and gear selection in a geared transmission. A conventional automatic typically uses a torque converter and planetary gears; design and controls vary.
-- Claim (Application matters): Gear selection depends on load, road speed, grade, engine torque, and the transmission’s shift strategy. A photographed selector alone does not identify internal hardware.
+- Claim (Application matters): Gear selection depends on load, road speed, grade, engine torque, and the transmission’s shift strategy. The photographed shift mechanism alone does not identify the complete transmission or its operating modes.
 
 Candidate references:
 
@@ -649,7 +649,7 @@ Candidate references:
 Photo evidence (manifest license and caption):
 
 - [TRUCK GEARBOX CUTAWAY](https://commons.wikimedia.org/wiki/File:Fahrzeuggetriebe.jpg) — A museum display photograph exposes internal gears. It is a physical cutaway object photographed in a museum, not a drawn infographic. Rights record: Stahlkocher; CC BY-SA 3.0 or GNU FDL 1.2+; attribution and share-alike required..
-- [I-SHIFT GEAR-CHANGE CONTROL](https://commons.wikimedia.org/wiki/File:I_shift_gear_change_unit.jpg) — This is a control unit associated with a Volvo I-Shift automated manual transmission; it is not the transmission assembly itself. Rights record: Panoha; CC BY-SA 3.0; attribution and share-alike required..
+- [ELECTRONIC PNEUMATIC SHIFT UNIT](https://commons.wikimedia.org/wiki/File:I_shift_gear_change_unit.jpg) — The photographer identifies this as a truck semi-automatic electronic pneumatic gear-shift control unit. Its exact installation and model are not stated in the file description. Rights record: Panoha; CC BY-SA 3.0; attribution and share-alike required..
 
 ### Truck Drivetrain Components (`drivetrain-components`)
 

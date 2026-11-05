@@ -15,3 +15,11 @@
 .card-open:focus-visible .card-visual{outline:3px solid var(--orange);outline-offset:-3px}
 .detail-item-copy .photo-credit{font-size:8px!important}
 .detail-items-1 .detail-item{grid-column:1/-1;max-width:760px}
+
+/* Keep the guide readable when viewed on a phone or at normal desktop zoom. */
+.fact h3,.detail-item-label,.notice-label{font-size:11px}
+.fact p,.detail-item-copy p,.notice-box p{font-size:14px;line-height:1.65}
+.detail-item-copy .photo-credit,.item-placement{font-size:12px!important;line-height:1.5!important}
+.detail-content > .fact + .fact{margin-top:8px}
+.source-list li a,.related-link{font-size:12px;line-height:1.5}
+@media(max-width:640px){.detail-items{grid-template-columns:1fr}.zoom-trigger img{height:200px}.detail-item-copy p{font-size:14px}.top-nav a:nth-child(2){display:inline}}
