@@ -47,10 +47,54 @@ Status values: `Planned`, `In progress`, `Complete`, `Needs review`.
 | 29 | safety-equipment | Truck Safety Equipment | Identification, safety, driver experience | Planned |
 | 30 | models-by-manufacturer | Truck Models by Manufacturer | Vehicles and configurations | Planned |
 
+## Additional requested topics
+
+These entries extend the original brief. Use distinct entries even when the original core galleries also introduce the same equipment, so each requested term has a direct learning destination. Use original diagrams, flow charts, sample documents, and clearly marked worked examples when those explain the subject better than photographs.
+
+| # | ID | Subject | Category | Status |
+|---:|---|---|---|---|
+| 31 | fifth-wheel | Fifth Wheel | Trailer equipment and cargo | Planned |
+| 32 | kingpin | Kingpin | Trailer equipment and cargo | Planned |
+| 33 | gladhand | Glad Hand | Trailer equipment and cargo | Planned |
+| 34 | landing-gear | Landing Gear | Trailer equipment and cargo | Planned |
+| 35 | five-axle-tire-count | Tire Count on a 5-Axle Tractor-Trailer | Vehicles and configurations | Planned |
+| 36 | us-minimum-tread-depth | Minimum Tread Depth in the U.S. | Identification, safety, driver experience | Planned |
+| 37 | aftertreatment-order | Exhaust Aftertreatment Order | Engine, powertrain, chassis | Planned |
+| 38 | regen-modes | Passive vs. Active vs. Parked Regen | Engine, powertrain, chassis | Planned |
+| 39 | def-freezing | Around What Temperature Does DEF Freeze? | Engine, powertrain, chassis | Planned |
+| 40 | aar-four-questions | The Four AAR Questions | Identification, safety, driver experience | Planned |
+| 41 | highway-warning-devices | Warning Devices After a Highway Stop (U.S.) | Identification, safety, driver experience | Planned |
+| 42 | budget-vs-forecast | Budget vs. Forecast | Freight operations and finance | Planned |
+| 43 | dvir-repair-loop | DVIR Repair Loop | Freight operations and safety | Planned |
+| 44 | cvsa-inspection-levels | CVSA Level I vs. II vs. III | Identification, safety, driver experience | Planned |
+| 45 | fmi-3-to-6 | FMI 3–6 Usually Suggest… | Vehicle diagnostics | Planned |
+| 46 | seven-way-red-wire | 7-Way Connector: Red Wire | Trailer equipment and cargo | Planned |
+| 47 | oem-aftermarket-reman | OEM vs. Aftermarket vs. Reman | Maintenance and parts | Planned |
+| 48 | reorder-point | Reorder Point Formula | Freight operations and finance | Planned |
+| 49 | leading-vs-lagging-indicators | Leading vs. Lagging Indicator | Freight operations and finance | Planned |
+| 50 | shipper-broker-carrier | Shipper vs. Broker vs. Carrier | Freight operations | Planned |
+| 51 | bol-pod | BOL / POD | Freight operations and documents | Planned |
+| 52 | tonu | TONU | Freight operations and finance | Planned |
+| 53 | fuel-surcharge | FSC | Freight operations and finance | Planned |
+| 54 | detention-calculation | Detention Calculation | Freight operations and finance | Planned |
+| 55 | invoice-packet | Invoice Packet | Freight operations and documents | Planned |
+| 56 | net-30 | Net 30 | Freight operations and finance | Planned |
+| 57 | freight-factoring | Freight Factoring | Freight operations and finance | Planned |
+| 58 | downtime | Downtime | Freight operations | Planned |
+| 59 | deadhead | Deadhead | Freight operations | Planned |
+| 60 | power-only-swap | Power Swap | Freight operations | Planned |
+
 ## Completeness gate
 
-- Expected total: 33 unique gallery IDs (3 introductory + 30 core).
-- Every gallery must be searchable and directly linkable.
-- Every item must have a truthful label, caption, image type, alt text, and traceable source/rights record.
+- Expected total: 63 unique learning entries (3 introductory + 30 core galleries + 30 additional requested topics).
+- Every entry must be searchable and directly linkable.
+- Every visual item must have a truthful label, caption, image type, alt text, and traceable source/rights record.
 - Position-sensitive subjects must include a clear orientation diagram.
 - No repeated generic image may stand in for distinct subjects or examples.
+
+## Accuracy notes for added topics
+
+- Treat legal minimums, warning-device placement, CVSA inspection scope, connector pinouts, and diagnostic-code wording as source-sensitive topics. Verify current primary or authoritative U.S. sources before publishing claims.
+- Show tire counts and component placement as labeled configurations, with caveats for axle/lift arrangements and vehicle setup.
+- Define abbreviations at first use (AAR, DVIR, CVSA, FMI, BOL, POD, TONU, FSC) and explain when terms vary by carrier or contract.
+- For formula topics, use transparent examples with stated assumptions; do not imply a universal contractual rate or accounting rule.
